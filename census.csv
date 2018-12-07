@@ -1,0 +1,1321 @@
+Area,Ethnic group,Sex,Maori,Age,count,pred_cells
+Ashburton District,Maori,Female,Yes,18-29,193,0.5432352979561486
+Ashburton District,Maori,Female,Yes,30-39,156,0.4396138529040863
+Ashburton District,Maori,Female,Yes,40-49,117,0.36480050919473717
+Ashburton District,Maori,Female,Yes,50-64,99,0.3350620312262736
+Ashburton District,Maori,Female,Yes,65+,42,0.30377459274056623
+Ashburton District,Maori,Male,Yes,18-29,211,0.45989947925100805
+Ashburton District,Maori,Male,Yes,30-39,126,0.3596575317287994
+Ashburton District,Maori,Male,Yes,40-49,120,0.2913761188820739
+Ashburton District,Maori,Male,Yes,50-64,123,0.2651248885631723
+Ashburton District,Maori,Male,Yes,65+,45,0.2380302635070115
+Ashburton District,Non-Maori,Female,No,18-29,1790,0.2559594509427288
+Ashburton District,Non-Maori,Female,No,30-39,1797,0.1849475749611797
+Ashburton District,Non-Maori,Female,No,40-49,2010,0.14245602262227147
+Ashburton District,Non-Maori,Female,No,50-64,2847,0.1272129943398608
+Ashburton District,Non-Maori,Female,No,65+,2748,0.11206313905739271
+Ashburton District,Non-Maori,Male,No,18-29,2038,0.19762607580938718
+Ashburton District,Non-Maori,Male,No,30-39,1785,0.13975798286045674
+Ashburton District,Non-Maori,Male,No,40-49,2055,0.10629470257502131
+Ashburton District,Non-Maori,Male,No,50-64,2880,0.09449462609275595
+Ashburton District,Non-Maori,Male,No,65+,2361,0.08287124858155942
+Auckland,Maori,Female,Yes,18-29,14936,0.6487194448828503
+Auckland,Maori,Female,Yes,30-39,9543,0.5491684839954665
+Auckland,Maori,Female,Yes,40-49,9537,0.4713943967130901
+Auckland,Maori,Female,Yes,50-64,9480,0.43897152408992707
+Auckland,Maori,Female,Yes,65+,3552,0.4038746134793192
+Auckland,Maori,Male,Yes,18-29,12799,0.5693730385271022
+Auckland,Maori,Male,Yes,30-39,7719,0.4658507709846404
+Auckland,Maori,Male,Yes,40-49,8163,0.3896772696795591
+Auckland,Maori,Male,Yes,50-64,7713,0.359057174727223
+Auckland,Maori,Male,Yes,65+,2712,0.32662975013273915
+Auckland,Non-Maori,Female,No,18-29,111444,0.3445819194880062
+Auckland,Non-Maori,Female,No,30-39,92907,0.2574919985945215
+Auckland,Non-Maori,Female,No,40-49,100284,0.20247381554221425
+Auckland,Non-Maori,Female,No,50-64,116007,0.18217304815529786
+Auckland,Non-Maori,Female,No,65+,85359,0.16169052648442916
+Auckland,Non-Maori,Male,No,18-29,110152,0.2734749431065474
+Auckland,Non-Maori,Male,No,30-39,83907,0.19890272384472624
+Auckland,Non-Maori,Male,No,40-49,90615,0.1538100324192661
+Auckland,Non-Maori,Male,No,50-64,109083,0.13754697167168137
+Auckland,Non-Maori,Male,No,65+,71535,0.12133753083863122
+Buller District,Maori,Female,Yes,18-29,84,0.5912269958127108
+Buller District,Maori,Female,Yes,30-39,54,0.48823629600111995
+Buller District,Maori,Female,Yes,40-49,66,0.4112204001966065
+Buller District,Maori,Female,Yes,50-64,81,0.37996136481155574
+Buller District,Maori,Female,Yes,65+,24,0.3466671434579321
+Buller District,Maori,Male,Yes,18-29,96,0.5087287454255065
+Buller District,Maori,Male,Yes,30-39,42,0.405841120536259
+Buller District,Maori,Male,Yes,40-49,57,0.33335624107087486
+Buller District,Maori,Male,Yes,50-64,78,0.30495047471946163
+Buller District,Maori,Male,Yes,65+,24,0.2753106154436765
+Buller District,Non-Maori,Female,No,18-29,500,0.24918228436634154
+Buller District,Non-Maori,Female,No,30-39,525,0.1795967779268529
+Buller District,Non-Maori,Female,No,40-49,735,0.1381262313884985
+Buller District,Non-Maori,Female,No,50-64,1089,0.12327989495880254
+Buller District,Non-Maori,Female,No,65+,828,0.10854018456027152
+Buller District,Non-Maori,Male,No,18-29,555,0.19199487725858258
+Buller District,Non-Maori,Male,No,30-39,492,0.1354972384015224
+Buller District,Non-Maori,Male,No,40-49,726,0.1029320698804989
+Buller District,Non-Maori,Male,No,50-64,1245,0.09146708353560636
+Buller District,Non-Maori,Male,No,65+,876,0.08018313428998951
+Carterton District,Maori,Female,Yes,18-29,77,0.6049538273974199
+Carterton District,Maori,Female,Yes,30-39,57,0.5025114672734753
+Carterton District,Maori,Female,Yes,40-49,60,0.42511430579526105
+Carterton District,Maori,Female,Yes,50-64,63,0.39350498802890566
+Carterton District,Maori,Female,Yes,65+,30,0.3597124983170273
+Carterton District,Maori,Male,Yes,18-29,66,0.5229907722599464
+Carterton District,Maori,Male,Yes,30-39,45,0.41968282783257327
+Carterton District,Maori,Male,Yes,40-49,54,0.3461660961901835
+Carterton District,Maori,Male,Yes,50-64,57,0.3171881397266288
+Carterton District,Maori,Male,Yes,65+,30,0.28684972252623075
+Carterton District,Non-Maori,Female,No,18-29,322,0.26145370005467977
+Carterton District,Non-Maori,Female,No,30-39,402,0.1893053559017684
+Carterton District,Non-Maori,Female,No,40-49,558,0.14599194101956103
+Carterton District,Non-Maori,Female,No,50-64,903,0.13042810864742763
+Carterton District,Non-Maori,Female,No,65+,753,0.11494579032144474
+Carterton District,Non-Maori,Male,No,18-29,340,0.20220847705655526
+Carterton District,Non-Maori,Male,No,30-39,348,0.1432381188089196
+Carterton District,Non-Maori,Male,No,40-49,516,0.10904719271369685
+Carterton District,Non-Maori,Male,No,50-64,852,0.09697471056902382
+Carterton District,Non-Maori,Male,No,65+,732,0.08507493025563476
+Central Hawke's Bay District,Maori,Female,Yes,18-29,227,0.5956601285108308
+Central Hawke's Bay District,Maori,Female,Yes,30-39,159,0.4928282237507928
+Central Hawke's Bay District,Maori,Female,Yes,40-49,183,0.41567632691150663
+Central Hawke's Bay District,Maori,Female,Yes,50-64,216,0.38429965642742914
+Central Hawke's Bay District,Maori,Female,Yes,65+,87,0.3508403903529594
+Central Hawke's Bay District,Maori,Male,Yes,18-29,212,0.5133200870291035
+Central Hawke's Bay District,Maori,Male,Yes,30-39,129,0.4102793757467729
+Central Hawke's Bay District,Maori,Male,Yes,40-49,147,0.33745201366176325
+Central Hawke's Bay District,Maori,Male,Yes,50-64,207,0.3088589369278332
+Central Hawke's Bay District,Maori,Male,Yes,65+,57,0.27899167752250414
+Central Hawke's Bay District,Non-Maori,Female,No,18-29,425,0.26042193900320243
+Central Hawke's Bay District,Non-Maori,Female,No,30-39,531,0.1884856474290924
+Central Hawke's Bay District,Non-Maori,Female,No,40-49,735,0.1453261627592856
+Central Hawke's Bay District,Non-Maori,Female,No,50-64,1326,0.1298225177275155
+Central Hawke's Bay District,Non-Maori,Female,No,65+,1017,0.11440262791060395
+Central Hawke's Bay District,Non-Maori,Male,No,18-29,473,0.20134677341888854
+Central Hawke's Bay District,Non-Maori,Male,No,30-39,528,0.14258280228896567
+Central Hawke's Bay District,Non-Maori,Male,No,40-49,687,0.10852848551204759
+Central Hawke's Bay District,Non-Maori,Male,No,50-64,1248,0.0965072085385829
+Central Hawke's Bay District,Non-Maori,Male,No,65+,1041,0.08465941723550914
+Central Otago District,Maori,Female,Yes,18-29,109,0.5768519824084554
+Central Otago District,Maori,Female,Yes,30-39,66,0.47346498607479426
+Central Otago District,Maori,Female,Yes,40-49,93,0.39697174071246993
+Central Otago District,Maori,Female,Yes,50-64,75,0.36612230453108746
+Central Otago District,Maori,Female,Yes,65+,30,0.3333887038590523
+Central Otago District,Maori,Male,Yes,18-29,95,0.49393583754022813
+Central Otago District,Maori,Male,Yes,30-39,63,0.39165486496870544
+Central Otago District,Maori,Male,Yes,40-49,81,0.320337664994902
+Central Otago District,Maori,Male,Yes,50-64,78,0.2925544037783441
+Central Otago District,Maori,Male,Yes,65+,36,0.2636623391741149
+Central Otago District,Non-Maori,Female,No,18-29,677,0.23808816730063118
+Central Otago District,Non-Maori,Female,No,30-39,897,0.17089558836959237
+Central Otago District,Non-Maori,Female,No,40-49,1197,0.13111312767557248
+Central Otago District,Non-Maori,Female,No,50-64,2133,0.11691832966354893
+Central Otago District,Non-Maori,Female,No,65+,1875,0.10284999832113542
+Central Otago District,Non-Maori,Male,No,18-29,798,0.18282687782221202
+Central Otago District,Non-Maori,Male,No,30-39,828,0.1285977004388944
+Central Otago District,Non-Maori,Male,No,40-49,1092,0.09750373059253725
+Central Otago District,Non-Maori,Male,No,50-64,2052,0.08658501550881582
+Central Otago District,Non-Maori,Male,No,65+,1869,0.07585306426914766
+Christchurch City,Maori,Female,Yes,18-29,2882,0.6632299970643354
+Christchurch City,Maori,Female,Yes,30-39,1728,0.5650340119066859
+Christchurch City,Maori,Female,Yes,40-49,1653,0.48744238966538445
+Christchurch City,Maori,Female,Yes,50-64,1542,0.45486553873167646
+Christchurch City,Maori,Female,Yes,65+,594,0.41944793857654633
+Christchurch City,Maori,Male,Yes,18-29,2955,0.5850647687294379
+Christchurch City,Maori,Male,Yes,30-39,1686,0.4818820824788129
+Christchurch City,Maori,Male,Yes,40-49,1701,0.40507514538513506
+Christchurch City,Maori,Male,Yes,50-64,1728,0.3739865252033166
+Christchurch City,Maori,Male,Yes,65+,606,0.34092797875510733
+Christchurch City,Non-Maori,Female,No,18-29,25448,0.33379865564521755
+Christchurch City,Non-Maori,Female,No,30-39,20406,0.2484011995552606
+Christchurch City,Non-Maori,Female,No,40-49,23535,0.19481579806366758
+Christchurch City,Non-Maori,Female,No,50-64,31434,0.17511425977594178
+Christchurch City,Non-Maori,Female,No,65+,27921,0.15527470434879617
+Christchurch City,Non-Maori,Male,No,18-29,27818,0.2640205100014728
+Christchurch City,Non-Maori,Male,No,30-39,19575,0.19134736708327804
+Christchurch City,Non-Maori,Male,No,40-49,21900,0.14765183031870827
+Christchurch City,Non-Maori,Male,No,50-64,29697,0.13193837991844712
+Christchurch City,Non-Maori,Male,No,65+,21942,0.11630076369147115
+Clutha District,Maori,Female,Yes,18-29,122,0.583121956444967
+Clutha District,Maori,Female,Yes,30-39,105,0.4798856368004354
+Clutha District,Maori,Female,Yes,40-49,105,0.4031493099692836
+Clutha District,Maori,Female,Yes,50-64,93,0.3721160445848625
+Clutha District,Maori,Female,Yes,65+,33,0.3391332682462385
+Clutha District,Maori,Male,Yes,18-29,151,0.5003702830878437
+Clutha District,Maori,Male,Yes,30-39,87,0.3978042760189698
+Clutha District,Maori,Male,Yes,40-49,102,0.3259673136848303
+Clutha District,Maori,Male,Yes,50-64,117,0.29790980335416667
+Clutha District,Maori,Male,Yes,65+,45,0.26868972374405775
+Clutha District,Non-Maori,Female,No,18-29,800,0.24667999412087022
+Clutha District,Non-Maori,Female,No,30-39,834,0.17762794936221402
+Clutha District,Non-Maori,Female,No,40-49,1167,0.1365363627790526
+Clutha District,Non-Maori,Female,No,50-64,1605,0.12183675473817784
+Clutha District,Non-Maori,Female,No,65+,1365,0.10724848303781034
+Clutha District,Non-Maori,Male,No,18-29,963,0.1899215984285344
+Clutha District,Non-Maori,Male,No,30-39,849,0.13393292779540997
+Clutha District,Non-Maori,Male,No,40-49,1227,0.10169949484017865
+Clutha District,Non-Maori,Male,No,50-64,1776,0.09035796906966305
+Clutha District,Non-Maori,Male,No,65+,1215,0.07919891954393199
+Dunedin City,Maori,Female,Yes,18-29,1145,0.6758607658518485
+Dunedin City,Maori,Female,Yes,30-39,507,0.5790099337087367
+Dunedin City,Maori,Female,Yes,40-49,531,0.5017128187600717
+Dunedin City,Maori,Female,Yes,50-64,435,0.46905502185273107
+Dunedin City,Maori,Female,Yes,65+,147,0.4334109867440829
+Dunedin City,Maori,Male,Yes,18-29,1021,0.5988540116677353
+Dunedin City,Maori,Male,Yes,30-39,462,0.4961472997867588
+Dunedin City,Maori,Male,Yes,40-49,438,0.418904973358437
+Dunedin City,Maori,Male,Yes,50-64,435,0.3874461893630434
+Dunedin City,Maori,Male,Yes,65+,192,0.3538704225777858
+Dunedin City,Non-Maori,Female,No,18-29,11647,0.38693988274640306
+Dunedin City,Non-Maori,Female,No,30-39,6303,0.293945678290328
+Dunedin City,Non-Maori,Female,No,40-49,7728,0.2335888441221606
+Dunedin City,Non-Maori,Female,No,50-64,10995,0.21099372025444188
+Dunedin City,Non-Maori,Female,No,65+,9798,0.18801572843502454
+Dunedin City,Non-Maori,Male,No,18-29,10944,0.311242871735326
+Dunedin City,Non-Maori,Male,No,30-39,5580,0.22962697573283278
+Dunedin City,Non-Maori,Male,No,40-49,6855,0.17912634791812596
+Dunedin City,Non-Maori,Male,No,50-64,10368,0.1606948110781964
+Dunedin City,Non-Maori,Male,No,65+,7761,0.1422072705885077
+Far North District,Maori,Female,Yes,18-29,1644,0.7876127548229169
+Far North District,Maori,Female,Yes,30-39,1239,0.7098162461710141
+Far North District,Maori,Female,Yes,40-49,1533,0.641672960210093
+Far North District,Maori,Female,Yes,50-64,2040,0.6110773481132709
+Far North District,Maori,Female,Yes,65+,1113,0.5763563840421608
+Far North District,Maori,Male,Yes,18-29,1424,0.7264079816418748
+Far North District,Maori,Male,Yes,30-39,924,0.6365382093000527
+Far North District,Maori,Male,Yes,40-49,1281,0.5618100166268414
+Far North District,Maori,Male,Yes,50-64,1677,0.5293964480100092
+Far North District,Maori,Male,Yes,65+,882,0.4934284074935333
+Far North District,Non-Maori,Female,No,18-29,1504,0.37244438511583594
+Far North District,Non-Maori,Female,No,30-39,1473,0.2813352204450727
+Far North District,Non-Maori,Female,No,40-49,2427,0.22275082833189855
+Far North District,Non-Maori,Female,No,50-64,4569,0.20092922050847833
+Far North District,Non-Maori,Female,No,65+,3873,0.17879890827396758
+Far North District,Non-Maori,Male,No,18-29,1528,0.298203764349871
+Far North District,Non-Maori,Male,No,30-39,1332,0.21892027447717755
+Far North District,Non-Maori,Male,No,40-49,2139,0.1702539279507198
+Far North District,Non-Maori,Male,No,50-64,4425,0.1525656575233
+Far North District,Non-Maori,Male,No,65+,4176,0.13486307791418906
+Gisborne District,Maori,Female,Yes,18-29,1757,0.638972256119119
+Gisborne District,Maori,Female,Yes,30-39,1218,0.5386235736892745
+Gisborne District,Maori,Female,Yes,40-49,1323,0.4608164112849969
+Gisborne District,Maori,Female,Yes,50-64,1587,0.4285312789359314
+Gisborne District,Maori,Female,Yes,65+,834,0.39368335229921525
+Gisborne District,Maori,Male,Yes,18-29,1445,0.5589211439334715
+Gisborne District,Maori,Male,Yes,30-39,966,0.4552900390430753
+Gisborne District,Maori,Male,Yes,40-49,1065,0.37961612349174234
+Gisborne District,Maori,Male,Yes,50-64,1404,0.3493341019065096
+Gisborne District,Maori,Male,Yes,65+,612,0.31735001225617954
+Gisborne District,Non-Maori,Female,No,18-29,1357,0.2932916581188318
+Gisborne District,Non-Maori,Female,No,30-39,1371,0.21491421392099272
+Gisborne District,Non-Maori,Female,No,40-49,1755,0.16694807429404906
+Gisborne District,Non-Maori,Female,No,50-64,2721,0.1495413608372053
+Gisborne District,Non-Maori,Female,No,65+,2532,0.13213498183329947
+Gisborne District,Non-Maori,Male,No,18-29,1462,0.2290696335621541
+Gisborne District,Non-Maori,Male,No,30-39,1251,0.16387481219298003
+Gisborne District,Non-Maori,Male,No,40-49,1593,0.1254793563765957
+Gisborne District,Non-Maori,Male,No,50-64,2685,0.11181599997342216
+Gisborne District,Non-Maori,Male,No,65+,2148,0.09829327597212477
+Gore District,Maori,Female,Yes,18-29,103,0.5073591870543315
+Gore District,Maori,Female,Yes,30-39,81,0.4045204734927072
+Gore District,Maori,Female,Yes,40-49,75,0.33213961209273224
+Gore District,Maori,Female,Yes,50-64,78,0.3037902735984273
+Gore District,Maori,Female,Yes,65+,30,0.27421869092582424
+Gore District,Maori,Male,Yes,18-29,109,0.4244131768517113
+Gore District,Maori,Male,Yes,30-39,60,0.3272198885541504
+Gore District,Maori,Male,Yes,40-49,60,0.26257158785533785
+Gore District,Maori,Male,Yes,50-64,90,0.23804371097502555
+Gore District,Maori,Male,Yes,65+,36,0.21291481706971502
+Gore District,Non-Maori,Female,No,18-29,604,0.20743290648745277
+Gore District,Non-Maori,Female,No,30-39,585,0.1472200984659641
+Gore District,Non-Maori,Female,No,40-49,789,0.1122031532209393
+Gore District,Non-Maori,Female,No,50-64,1134,0.09982042371002722
+Gore District,Non-Maori,Female,No,65+,1257,0.08760532232065642
+Gore District,Non-Maori,Male,No,18-29,640,0.15781307607836678
+Gore District,Non-Maori,Male,No,30-39,507,0.11000458619277426
+Gore District,Non-Maori,Male,No,40-49,714,0.08297819817344805
+Gore District,Non-Maori,Male,No,50-64,1206,0.07355352053540465
+Gore District,Non-Maori,Male,No,65+,966,0.06432303971837171
+Grey District,Maori,Female,Yes,18-29,97,0.5529195888335854
+Grey District,Maori,Female,Yes,30-39,75,0.4492678246076114
+Grey District,Maori,Female,Yes,40-49,87,0.3739077736909674
+Grey District,Maori,Female,Yes,50-64,81,0.34382874087879456
+Grey District,Maori,Female,Yes,65+,30,0.31210692514268085
+Grey District,Maori,Male,Yes,18-29,94,0.46962560036494266
+Grey District,Maori,Male,Yes,30-39,51,0.3687109301210357
+Grey District,Maori,Male,Yes,40-49,66,0.29951467195175663
+Grey District,Maori,Male,Yes,50-64,72,0.2728124944307174
+Grey District,Maori,Male,Yes,65+,18,0.24519436146385185
+Grey District,Non-Maori,Female,No,18-29,787,0.23280696546070065
+Grey District,Non-Maori,Female,No,30-39,687,0.16677858161454148
+Grey District,Non-Maori,Female,No,40-49,933,0.12780677490125858
+Grey District,Non-Maori,Female,No,50-64,1326,0.11392300179097214
+Grey District,Non-Maori,Female,No,65+,1065,0.10017420212603895
+Grey District,Non-Maori,Male,No,18-29,772,0.17848431404196577
+Grey District,Non-Maori,Male,No,30-39,564,0.12534562975922242
+Grey District,Non-Maori,Male,No,40-49,930,0.09495230444345812
+Grey District,Non-Maori,Male,No,50-64,1446,0.08429261890350798
+Grey District,Non-Maori,Male,No,65+,1023,0.07382183957105148
+Hamilton City,Maori,Female,Yes,18-29,3470,0.6336008744185804
+Hamilton City,Maori,Female,Yes,30-39,1950,0.5328507189868422
+Hamilton City,Maori,Female,Yes,40-49,1686,0.45505498235941005
+Hamilton City,Maori,Female,Yes,50-64,1614,0.4228569358231269
+Hamilton City,Maori,Female,Yes,65+,603,0.388157024865184
+Hamilton City,Maori,Male,Yes,18-29,2963,0.5531915812952259
+Hamilton City,Maori,Male,Yes,30-39,1638,0.4495400975904548
+Hamilton City,Maori,Male,Yes,40-49,1374,0.3741654043859497
+Hamilton City,Maori,Male,Yes,50-64,1305,0.3440770362116815
+Hamilton City,Maori,Male,Yes,65+,483,0.3123432169586773
+Hamilton City,Non-Maori,Female,No,18-29,11495,0.2854632289673402
+Hamilton City,Non-Maori,Female,No,30-39,7953,0.20856041834781683
+Hamilton City,Non-Maori,Female,No,40-49,7899,0.16172025317245695
+Hamilton City,Non-Maori,Female,No,50-64,10185,0.1447638939293741
+Hamilton City,Non-Maori,Female,No,65+,8526,0.1278300203021387
+Hamilton City,Non-Maori,Male,No,18-29,11170,0.22241590281280169
+Hamilton City,Non-Maori,Male,No,30-39,7368,0.15872489106181156
+Hamilton City,Non-Maori,Male,No,40-49,7083,0.1213609126767359
+Hamilton City,Non-Maori,Male,No,50-64,8976,0.10809058175922523
+Hamilton City,Non-Maori,Male,No,65+,6540,0.0949702249551901
+Hastings District,Maori,Female,Yes,18-29,1570,0.6530744306460077
+Hastings District,Maori,Female,Yes,30-39,1032,0.5539089672096614
+Hastings District,Maori,Female,Yes,40-49,1179,0.47617261655907767
+Hastings District,Maori,Female,Yes,50-64,1173,0.4436969537279099
+Hastings District,Maori,Female,Yes,65+,546,0.4084973248974807
+Hastings District,Maori,Male,Yes,18-29,1301,0.5740658475063841
+Hastings District,Maori,Male,Yes,30-39,831,0.47062282711127185
+Hastings District,Maori,Male,Yes,40-49,873,0.39424494926882847
+Hastings District,Maori,Male,Yes,50-64,1014,0.3634796904816886
+Hastings District,Maori,Male,Yes,65+,384,0.33085903434858704
+Hastings District,Non-Maori,Female,No,18-29,3230,0.2677236662785235
+Hastings District,Non-Maori,Female,No,30-39,3102,0.19430031007846355
+Hastings District,Non-Maori,Female,No,40-49,4344,0.1500555772309062
+Hastings District,Non-Maori,Female,No,50-64,6336,0.13412656945239473
+Hastings District,Non-Maori,Female,No,65+,5667,0.11826493812242234
+Hastings District,Non-Maori,Male,No,18-29,3387,0.20745676593415677
+Hastings District,Non-Maori,Male,No,30-39,2817,0.14723831872445092
+Hastings District,Non-Maori,Male,No,40-49,4026,0.11221760999324752
+Hastings District,Non-Maori,Male,No,50-64,5871,0.09983346444370006
+Hastings District,Non-Maori,Male,No,65+,4767,0.08761692257379057
+Hauraki District,Maori,Female,Yes,18-29,310,0.6115922112347293
+Hauraki District,Maori,Female,Yes,30-39,189,0.5094754696159086
+Hauraki District,Maori,Female,Yes,40-49,249,0.4319369769873645
+Hauraki District,Maori,Female,Yes,50-64,279,0.400173487190429
+Hauraki District,Maori,Female,Yes,65+,117,0.36615406399191003
+Hauraki District,Maori,Male,Yes,18-29,256,0.5299362636227687
+Hauraki District,Maori,Male,Yes,30-39,159,0.4264829967181131
+Hauraki District,Maori,Male,Yes,40-49,180,0.35249862864236003
+Hauraki District,Maori,Male,Yes,50-64,258,0.3232526495665709
+Hauraki District,Maori,Male,Yes,65+,123,0.2925827271872875
+Hauraki District,Non-Maori,Female,No,18-29,697,0.2795538241724768
+Hauraki District,Non-Maori,Female,No,30-39,663,0.2037889492433085
+Hauraki District,Non-Maori,Female,No,40-49,1002,0.15780672732606335
+Hauraki District,Non-Maori,Female,No,50-64,1686,0.14119158859839137
+Hauraki District,Non-Maori,Female,No,65+,1917,0.1246147008143881
+Hauraki District,Non-Maori,Male,No,18-29,710,0.21741452520934604
+Hauraki District,Non-Maori,Male,No,30-39,543,0.15487045943869318
+Hauraki District,Non-Maori,Male,No,40-49,951,0.11828624291542675
+Hauraki District,Non-Maori,Male,No,50-64,1638,0.10531181829050397
+Hauraki District,Non-Maori,Male,No,65+,1740,0.09249377757733915
+Horowhenua District,Maori,Female,Yes,18-29,536,0.6408589161143327
+Horowhenua District,Maori,Female,Yes,30-39,390,0.5406576553767506
+Horowhenua District,Maori,Female,Yes,40-49,423,0.4628514323518212
+Horowhenua District,Maori,Female,Yes,50-64,501,0.4305375709907646
+Horowhenua District,Maori,Female,Yes,65+,252,0.39563944625277775
+Horowhenua District,Maori,Male,Yes,18-29,496,0.5609386844433999
+Horowhenua District,Maori,Male,Yes,30-39,267,0.4573213547701663
+Horowhenua District,Maori,Male,Yes,40-49,363,0.3815463060544876
+Horowhenua District,Maori,Male,Yes,50-64,393,0.35119747604700513
+Horowhenua District,Maori,Male,Yes,65+,180,0.3191264562862821
+Horowhenua District,Non-Maori,Female,No,18-29,1189,0.2688403996282697
+Horowhenua District,Non-Maori,Female,No,30-39,1032,0.19519241531727696
+Horowhenua District,Non-Maori,Female,No,40-49,1629,0.15078255575919658
+Horowhenua District,Non-Maori,Female,No,50-64,2820,0.1347886145560982
+Horowhenua District,Non-Maori,Female,No,65+,3537,0.11885943795707184
+Horowhenua District,Non-Maori,Male,No,18-29,1107,0.20839365335142976
+Horowhenua District,Non-Maori,Male,No,30-39,909,0.1479540243234069
+Horowhenua District,Non-Maori,Male,No,40-49,1416,0.1127855992649209
+Horowhenua District,Non-Maori,Male,No,50-64,2583,0.10034585635157277
+Horowhenua District,Non-Maori,Male,No,65+,3174,0.08807274818690207
+Hurunui District,Maori,Female,Yes,18-29,69,0.6388831472317523
+Hurunui District,Maori,Female,Yes,30-39,45,0.538527584490678
+Hurunui District,Maori,Female,Yes,40-49,57,0.460720441801309
+Hurunui District,Maori,Female,Yes,50-64,60,0.42843669048092586
+Hurunui District,Maori,Female,Yes,65+,15,0.3935911580487765
+Hurunui District,Maori,Male,Yes,18-29,65,0.5588259187557811
+Hurunui District,Maori,Male,Yes,30-39,45,0.4551942488398063
+Hurunui District,Maori,Male,Yes,40-49,39,0.3795251614736167
+Hurunui District,Maori,Male,Yes,50-64,51,0.3492463111311666
+Hurunui District,Maori,Male,Yes,65+,21,0.3172663400737643
+Hurunui District,Non-Maori,Female,No,18-29,550,0.29142042995352607
+Hurunui District,Non-Maori,Female,No,30-39,591,0.21339204840013487
+Hurunui District,Non-Maori,Female,No,40-49,822,0.1656939365966641
+Hurunui District,Non-Maori,Female,No,50-64,1251,0.14839469177091993
+Hurunui District,Non-Maori,Female,No,65+,969,0.1311012082954673
+Hurunui District,Non-Maori,Male,No,18-29,568,0.22747625942286573
+Hurunui District,Non-Maori,Male,No,30-39,606,0.16263925397540782
+Hurunui District,Non-Maori,Male,No,40-49,744,0.12449018461422044
+Hurunui District,Non-Maori,Male,No,50-64,1290,0.1109208768567253
+Hurunui District,Non-Maori,Male,No,65+,1029,0.09749452377837549
+Invercargill City,Maori,Female,Yes,18-29,713,0.5998335481211153
+Invercargill City,Maori,Female,Yes,30-39,498,0.49716704887314056
+Invercargill City,Maori,Female,Yes,40-49,444,0.4198982692536525
+Invercargill City,Maori,Female,Yes,50-64,441,0.3884147512127409
+Invercargill City,Maori,Female,Yes,65+,225,0.3548036663889808
+Invercargill City,Maori,Male,Yes,18-29,662,0.5176551830398126
+Invercargill City,Maori,Male,Yes,30-39,411,0.41448538545361063
+Invercargill City,Maori,Male,Yes,40-49,408,0.34134357430051065
+Invercargill City,Maori,Male,Yes,50-64,450,0.3125763216066314
+Invercargill City,Maori,Male,Yes,65+,246,0.28249651679804194
+Invercargill City,Non-Maori,Female,No,18-29,3320,0.2405249317700139
+Invercargill City,Non-Maori,Female,No,30-39,2799,0.1728006247306195
+Invercargill City,Non-Maori,Female,No,40-49,3216,0.132645643478932
+Invercargill City,Non-Maori,Female,No,50-64,4674,0.11830752065570928
+Invercargill City,Non-Maori,Female,No,65+,4407,0.10409173654854412
+Invercargill City,Non-Maori,Male,No,18-29,3181,0.1848352659503993
+Invercargill City,Non-Maori,Male,No,30-39,2529,0.13010521719770995
+Invercargill City,Non-Maori,Male,No,40-49,2958,0.09868802204603964
+Invercargill City,Non-Maori,Male,No,50-64,4416,0.08764956692389675
+Invercargill City,Non-Maori,Male,No,65+,3423,0.07679676147488297
+Kaikoura District,Maori,Female,Yes,18-29,47,0.5905819530171968
+Kaikoura District,Maori,Female,Yes,30-39,39,0.48756959325342347
+Kaikoura District,Maori,Female,Yes,40-49,45,0.4105744918916969
+Kaikoura District,Maori,Female,Yes,50-64,42,0.37933292246862343
+Kaikoura District,Maori,Female,Yes,65+,27,0.3460630336860464
+Kaikoura District,Maori,Male,Yes,18-29,41,0.5080618402608014
+Kaikoura District,Maori,Male,Yes,30-39,21,0.4051978467246535
+Kaikoura District,Maori,Male,Yes,40-49,39,0.33276351276395855
+Kaikoura District,Maori,Male,Yes,50-64,36,0.30438519237311745
+Kaikoura District,Maori,Male,Yes,65+,24,0.2747785551060493
+Kaikoura District,Non-Maori,Female,No,18-29,159,0.25855257525143416
+Kaikoura District,Non-Maori,Female,No,30-39,165,0.18700209260077472
+Kaikoura District,Non-Maori,Female,No,40-49,234,0.14412198232490908
+Kaikoura District,Non-Maori,Female,No,50-64,390,0.12872745260876545
+Kaikoura District,Non-Maori,Female,No,65+,321,0.11342067765712
+Kaikoura District,Non-Maori,Male,No,18-29,160,0.19978691129429083
+Kaikoura District,Non-Maori,Male,No,30-39,147,0.14139759275686614
+Kaikoura District,Non-Maori,Male,No,40-49,180,0.10759082925704351
+Kaikoura District,Non-Maori,Male,No,50-64,399,0.09566226771564798
+Kaikoura District,Non-Maori,Male,No,65+,318,0.08390857277406788
+Kaipara District,Maori,Female,Yes,18-29,313,0.5948964303220938
+Kaipara District,Maori,Female,Yes,30-39,261,0.4920359309229016
+Kaipara District,Maori,Female,Yes,40-49,258,0.41490659826112536
+Kaipara District,Maori,Female,Yes,50-64,351,0.3835498915551629
+Kaipara District,Maori,Female,Yes,65+,165,0.3501187833653404
+Kaipara District,Maori,Male,Yes,18-29,297,0.512528142127113
+Kaipara District,Maori,Male,Yes,30-39,183,0.4095126369244545
+Kaipara District,Maori,Male,Yes,40-49,219,0.3367436592645552
+Kaipara District,Maori,Male,Yes,50-64,303,0.30818268462093423
+Kaipara District,Maori,Male,Yes,65+,141,0.2783544825711093
+Kaipara District,Non-Maori,Female,No,18-29,659,0.25738739611137507
+Kaipara District,Non-Maori,Female,No,30-39,681,0.18607843599954255
+Kaipara District,Non-Maori,Female,No,40-49,1008,0.14337277223349051
+Kaipara District,Non-Maori,Female,No,50-64,1908,0.1280462973428346
+Kaipara District,Non-Maori,Female,No,65+,1758,0.1128100304459413
+Kaipara District,Non-Maori,Male,No,18-29,709,0.19881554940141868
+Kaipara District,Non-Maori,Male,No,30-39,678,0.14066021768670722
+Kaipara District,Non-Maori,Male,No,40-49,966,0.10700778107343095
+Kaipara District,Non-Maori,Male,No,50-64,1887,0.0951369705792523
+Kaipara District,Non-Maori,Male,No,65+,1731,0.0834418619544526
+Kapiti Coast District,Maori,Female,Yes,18-29,535,0.665804013716953
+Kapiti Coast District,Maori,Female,Yes,30-39,375,0.5678695495881139
+Kapiti Coast District,Maori,Female,Yes,40-49,450,0.49032748699392864
+Kapiti Coast District,Maori,Female,Yes,50-64,432,0.4577300106392183
+Kapiti Coast District,Maori,Female,Yes,65+,243,0.4222621379131298
+Kapiti Coast District,Maori,Male,Yes,18-29,466,0.5878649712161346
+Kapiti Coast District,Maori,Male,Yes,30-39,273,0.4847653953078398
+Kapiti Coast District,Maori,Male,Yes,40-49,375,0.4078606602067666
+Kapiti Coast District,Maori,Male,Yes,50-64,366,0.37669362015453256
+Kapiti Coast District,Maori,Male,Yes,65+,174,0.3435270932589387
+Kapiti Coast District,Non-Maori,Female,No,18-29,1844,0.30824394930701177
+Kapiti Coast District,Non-Maori,Female,No,30-39,2070,0.22715509160978753
+Kapiti Coast District,Non-Maori,Female,No,40-49,3363,0.17707313701076355
+Kapiti Coast District,Non-Maori,Female,No,50-64,4827,0.15881199552913278
+Kapiti Coast District,Non-Maori,Female,No,65+,6765,0.14050480592836687
+Kapiti Coast District,Non-Maori,Male,No,18-29,1771,0.24186837319478433
+Kapiti Coast District,Non-Maori,Male,No,30-39,1698,0.1738523855359699
+Kapiti Coast District,Non-Maori,Male,No,40-49,2805,0.13349244059015816
+Kapiti Coast District,Non-Maori,Male,No,50-64,4329,0.11907535076142246
+Kapiti Coast District,Non-Maori,Male,No,65+,5244,0.10477826871608643
+Kawerau District,Maori,Female,Yes,18-29,320,0.6835897705044626
+Kawerau District,Maori,Female,Yes,30-39,234,0.5876393038124417
+Kawerau District,Maori,Female,Yes,40-49,228,0.5105873657001733
+Kawerau District,Maori,Female,Yes,50-64,261,0.477905940694082
+Kawerau District,Maori,Female,Yes,65+,126,0.4421494209641347
+Kawerau District,Maori,Male,Yes,18-29,254,0.6073524604324616
+Kawerau District,Maori,Male,Yes,30-39,171,0.5050231775452292
+Kawerau District,Maori,Male,Yes,40-49,165,0.42757164753639204
+Kawerau District,Maori,Male,Yes,50-64,246,0.39590544466452315
+Kawerau District,Maori,Male,Yes,65+,117,0.3620298640393199
+Kawerau District,Non-Maori,Female,No,18-29,149,0.30716507100159685
+Kawerau District,Non-Maori,Female,No,30-39,117,0.22626719660835587
+Kawerau District,Non-Maori,Female,No,40-49,156,0.17633633514879857
+Kawerau District,Non-Maori,Female,No,50-64,309,0.15813657684669885
+Kawerau District,Non-Maori,Female,No,65+,435,0.13989429824838856
+Kawerau District,Non-Maori,Male,No,18-29,148,0.24094089693496215
+Kawerau District,Non-Maori,Male,No,30-39,78,0.17312616583053728
+Kawerau District,Non-Maori,Male,No,40-49,177,0.13290769072152536
+Kawerau District,Non-Maori,Male,No,50-64,324,0.11854511369424554
+Kawerau District,Non-Maori,Male,No,65+,441,0.10430415785772412
+Lower Hutt City,Maori,Female,Yes,18-29,1553,0.7049051738081926
+Lower Hutt City,Maori,Female,Yes,30-39,1113,0.6117473318771842
+Lower Hutt City,Maori,Female,Yes,40-49,1044,0.5356404308398256
+Lower Hutt City,Maori,Female,Yes,50-64,1110,0.5030035370869865
+Lower Hutt City,Maori,Female,Yes,65+,333,0.4670490405958502
+Lower Hutt City,Maori,Male,Yes,18-29,1401,0.6310316232970484
+Lower Hutt City,Maori,Male,Yes,30-39,939,0.5300989395400956
+Lower Hutt City,Maori,Male,Yes,40-49,897,0.45231595985460055
+Lower Hutt City,Maori,Male,Yes,50-64,948,0.42016229083910234
+Lower Hutt City,Maori,Male,Yes,65+,303,0.3855357915278443
+Lower Hutt City,Non-Maori,Female,No,18-29,6116,0.3275175435062598
+Lower Hutt City,Non-Maori,Female,No,30-39,5772,0.2431405431736264
+Lower Hutt City,Non-Maori,Female,No,40-49,6591,0.19040248901160722
+Lower Hutt City,Non-Maori,Female,No,50-64,8205,0.1710524501014121
+Lower Hutt City,Non-Maori,Female,No,65+,6543,0.15158850975886987
+Lower Hutt City,Non-Maori,Male,No,18-29,5879,0.25854285437338603
+Lower Hutt City,Non-Maori,Male,No,30-39,5220,0.1869943833782019
+Lower Hutt City,Non-Maori,Male,No,40-49,5949,0.14411572749009177
+Lower Hutt City,Non-Maori,Male,No,50-64,7941,0.1287217654073128
+Lower Hutt City,Non-Maori,Male,No,65+,5424,0.113415578681851
+Mackenzie District,Maori,Female,Yes,18-29,20,0.5910233992856229
+Mackenzie District,Maori,Female,Yes,30-39,18,0.4880258233036167
+Mackenzie District,Maori,Female,Yes,40-49,9,0.4110164634646599
+Mackenzie District,Maori,Female,Yes,50-64,21,0.37976293139678235
+Mackenzie District,Maori,Female,Yes,65+,3,0.34647638156720817
+Mackenzie District,Maori,Male,Yes,18-29,26,0.5085182167045327
+Mackenzie District,Maori,Male,Yes,30-39,15,0.4056380136152302
+Mackenzie District,Maori,Male,Yes,40-49,21,0.33316906859904794
+Mackenzie District,Maori,Male,Yes,50-64,21,0.30477195991344236
+Mackenzie District,Maori,Male,Yes,65+,6,0.27514258298073685
+Mackenzie District,Non-Maori,Female,No,18-29,212,0.24825707331674682
+Mackenzie District,Non-Maori,Female,No,30-39,234,0.1788683851811576
+Mackenzie District,Non-Maori,Female,No,40-49,321,0.13753783430296732
+Mackenzie District,Non-Maori,Female,No,50-64,420,0.12274573412401667
+Mackenzie District,Non-Maori,Female,No,65+,348,0.10806201765831429
+Mackenzie District,Non-Maori,Male,No,18-29,260,0.19122792189667906
+Mackenzie District,Non-Maori,Male,No,30-39,222,0.13491828731575137
+Mackenzie District,Non-Maori,Male,No,40-49,282,0.1024757691269919
+Mackenzie District,Non-Maori,Male,No,50-64,447,0.0910564484610327
+Mackenzie District,Non-Maori,Male,No,65+,303,0.07981870713899869
+Manawatu District,Maori,Female,Yes,18-29,363,0.6717187136421404
+Manawatu District,Maori,Female,Yes,30-39,225,0.5744095924255986
+Manawatu District,Maori,Female,Yes,40-49,267,0.4970015919351909
+Manawatu District,Maori,Female,Yes,50-64,255,0.4643646723095527
+Manawatu District,Maori,Female,Yes,65+,96,0.4287892146992477
+Manawatu District,Maori,Male,Yes,18-29,350,0.5943185836019722
+Manawatu District,Maori,Male,Yes,30-39,210,0.4914367914507618
+Manawatu District,Maori,Male,Yes,40-49,192,0.41432477192893863
+Manawatu District,Maori,Male,Yes,50-64,246,0.38298325447517145
+Manawatu District,Maori,Male,Yes,65+,90,0.34957352819204834
+Manawatu District,Non-Maori,Female,No,18-29,1339,0.28685090012563286
+Manawatu District,Non-Maori,Female,No,30-39,1359,0.20968395885790075
+Manawatu District,Non-Maori,Female,No,40-49,1857,0.16264331534505033
+Manawatu District,Non-Maori,Female,No,50-64,2625,0.14560698404117145
+Manawatu District,Non-Maori,Female,No,65+,2142,0.12858931748239485
+Manawatu District,Non-Maori,Male,No,18-29,1447,0.22359299731047075
+Manawatu District,Non-Maori,Male,No,30-39,1176,0.15963411215502055
+Manawatu District,Non-Maori,Male,No,40-49,1707,0.12208716290662633
+Manawatu District,Non-Maori,Male,No,50-64,2574,0.1087472481480196
+Manawatu District,Non-Maori,Male,No,65+,2010,0.09555572284129112
+Marlborough District,Maori,Female,Yes,18-29,419,0.4930624331293727
+Marlborough District,Maori,Female,Yes,30-39,291,0.3908226459375036
+Marlborough District,Maori,Female,Yes,40-49,297,0.3195773787793774
+Marlborough District,Maori,Female,Yes,50-64,375,0.29183174470124595
+Marlborough District,Maori,Female,Yes,65+,168,0.26298451808202533
+Marlborough District,Maori,Male,Yes,18-29,376,0.4105061079613306
+Marlborough District,Maori,Male,Yes,30-39,252,0.31475603466262553
+Marlborough District,Maori,Male,Yes,40-49,297,0.2516491285177796
+Marlborough District,Maori,Male,Yes,50-64,318,0.22782634070653157
+Marlborough District,Maori,Male,Yes,65+,162,0.20348798755320044
+Marlborough District,Non-Maori,Female,No,18-29,2043,0.22273623127436598
+Marlborough District,Non-Maori,Female,No,30-39,2205,0.15897224374987012
+Marlborough District,Non-Maori,Female,No,40-49,2808,0.1215584517310245
+Marlborough District,Non-Maori,Female,No,50-64,4611,0.10826918235276264
+Marlborough District,Non-Maori,Female,No,65+,4461,0.09512945872759383
+Marlborough District,Non-Maori,Male,No,18-29,2120,0.17024201755619456
+Marlborough District,Non-Maori,Male,No,30-39,1974,0.11920118481169081
+Marlborough District,Non-Maori,Male,No,40-49,2523,0.0901441897249489
+Marlborough District,Non-Maori,Male,No,50-64,4422,0.07997658181301419
+Marlborough District,Non-Maori,Male,No,65+,4116,0.07000095334851208
+Masterton District,Maori,Female,Yes,18-29,394,0.5403549544025567
+Masterton District,Maori,Female,Yes,30-39,252,0.4367575750311012
+Masterton District,Maori,Female,Yes,40-49,264,0.36211621119602233
+Masterton District,Maori,Female,Yes,50-64,267,0.33248201811499856
+Masterton District,Maori,Female,Yes,65+,135,0.3013263213582366
+Masterton District,Maori,Male,Yes,18-29,349,0.4570188898021814
+Masterton District,Maori,Male,Yes,30-39,213,0.35698980867187846
+Masterton District,Maori,Male,Yes,40-49,222,0.2889862963472658
+Masterton District,Maori,Male,Yes,50-64,243,0.2628705039304739
+Masterton District,Maori,Male,Yes,65+,102,0.23593230089500516
+Masterton District,Non-Maori,Female,No,18-29,1091,0.2569201001972458
+Masterton District,Non-Maori,Female,No,30-39,978,0.18570822843638457
+Masterton District,Non-Maori,Female,No,40-49,1380,0.14307259350816193
+Masterton District,Non-Maori,Female,No,50-64,2280,0.12777342122064542
+Masterton District,Non-Maori,Female,No,65+,2367,0.11256543224887831
+Masterton District,Non-Maori,Male,No,18-29,1081,0.19842617888230277
+Masterton District,Non-Maori,Male,No,30-39,882,0.14036478763159746
+Masterton District,Non-Maori,Male,No,40-49,1215,0.10677424940243062
+Masterton District,Non-Maori,Male,No,50-64,2187,0.09492659161290375
+Masterton District,Non-Maori,Male,No,65+,1854,0.08325496520567677
+Matamata-Piako District,Maori,Female,Yes,18-29,395,0.4832429062694712
+Matamata-Piako District,Maori,Female,Yes,30-39,267,0.38150691862790004
+Matamata-Piako District,Maori,Female,Yes,40-49,270,0.311092628536439
+Matamata-Piako District,Maori,Female,Yes,50-64,303,0.28377641443961826
+Matamata-Piako District,Maori,Female,Yes,65+,117,0.2554382346351102
+Matamata-Piako District,Maori,Male,Yes,18-29,404,0.4010300688356239
+Matamata-Piako District,Maori,Male,Yes,30-39,240,0.3063416593576359
+Matamata-Piako District,Maori,Male,Yes,40-49,240,0.24432028590154928
+Matamata-Piako District,Maori,Male,Yes,50-64,228,0.22098641845987968
+Matamata-Piako District,Maori,Male,Yes,65+,99,0.19719216352550664
+Matamata-Piako District,Non-Maori,Female,No,18-29,1699,0.1989242049749782
+Matamata-Piako District,Non-Maori,Female,No,30-39,1458,0.14074267374697438
+Matamata-Piako District,Non-Maori,Female,No,40-49,1947,0.10707296783121872
+Matamata-Piako District,Non-Maori,Female,No,50-64,2763,0.09519569679646504
+Matamata-Piako District,Non-Maori,Female,No,65+,2952,0.08349403513754494
+Matamata-Piako District,Non-Maori,Male,No,18-29,1742,0.15095207931317564
+Matamata-Piako District,Non-Maori,Male,No,30-39,1338,0.1049630395652377
+Matamata-Piako District,Non-Maori,Male,No,40-49,1785,0.079065242836008
+Matamata-Piako District,Non-Maori,Male,No,50-64,2745,0.07005104911695616
+Matamata-Piako District,Non-Maori,Male,No,65+,2514,0.06123105527115896
+Napier City,Maori,Female,Yes,18-29,970,0.6194766444715968
+Napier City,Maori,Female,Yes,30-39,702,0.5177984542501002
+Napier City,Maori,Female,Yes,40-49,645,0.4401298256547864
+Napier City,Maori,Female,Yes,50-64,660,0.40819678382629626
+Napier City,Maori,Female,Yes,65+,321,0.37392047863792843
+Napier City,Maori,Male,Yes,18-29,844,0.5382267428139728
+Napier City,Maori,Male,Yes,30-39,546,0.43465154994547284
+Napier City,Maori,Male,Yes,40-49,570,0.36013997050399055
+Napier City,Maori,Male,Yes,50-64,555,0.33058368973839297
+Napier City,Maori,Male,Yes,65+,231,0.2995260584176229
+Napier City,Non-Maori,Female,No,18-29,2859,0.25679998149632915
+Napier City,Non-Maori,Female,No,30-39,2682,0.18561308720564004
+Napier City,Non-Maori,Female,No,40-49,3492,0.14299545941024164
+Napier City,Non-Maori,Female,No,50-64,5433,0.1277033061167223
+Napier City,Non-Maori,Female,No,65+,5562,0.11250258605631665
+Napier City,Non-Maori,Male,No,18-29,2689,0.1983261089649636
+Napier City,Non-Maori,Male,No,30-39,2301,0.14028887438732235
+Napier City,Non-Maori,Male,No,40-49,3096,0.10671424767325
+Napier City,Non-Maori,Male,No,50-64,4743,0.09487254052241616
+Napier City,Non-Maori,Male,No,65+,4548,0.08320694895021886
+Nelson City,Maori,Female,Yes,18-29,373,0.6802423830463873
+Nelson City,Maori,Female,Yes,30-39,279,0.5838947196740478
+Nelson City,Maori,Female,Yes,40-49,294,0.5067304163879023
+Nelson City,Maori,Female,Yes,50-64,261,0.4740567373349436
+Nelson City,Maori,Female,Yes,65+,99,0.4383464139399898
+Nelson City,Maori,Male,Yes,18-29,373,0.6036661535407517
+Nelson City,Maori,Male,Yes,30-39,228,0.5011652189013255
+Nelson City,Maori,Male,Yes,40-49,264,0.4237987708535487
+Nelson City,Maori,Male,Yes,50-64,210,0.39222053344516333
+Nelson City,Maori,Male,Yes,65+,66,0.35847315151071046
+Nelson City,Non-Maori,Female,No,18-29,2554,0.3525515939069392
+Nelson City,Non-Maori,Female,No,30-39,2550,0.2642595459276516
+Nelson City,Non-Maori,Female,No,40-49,3327,0.208200811114892
+Nelson City,Non-Maori,Female,No,50-64,4968,0.1874608037456995
+Nelson City,Non-Maori,Female,No,65+,4335,0.16650479829890943
+Nelson City,Non-Maori,Male,No,18-29,2528,0.2805038684683152
+Nelson City,Non-Maori,Male,No,30-39,2223,0.20455461804029412
+Nelson City,Non-Maori,Male,No,40-49,3021,0.15843401050693112
+Nelson City,Non-Maori,Male,No,50-64,4461,0.14176394366917178
+Nelson City,Non-Maori,Male,No,65+,3606,0.12512964828839415
+New Plymouth District,Maori,Female,Yes,18-29,962,0.646853805550222
+New Plymouth District,Maori,Female,Yes,30-39,705,0.5471432149371631
+New Plymouth District,Maori,Female,Yes,40-49,657,0.46935734141306923
+New Plymouth District,Maori,Female,Yes,50-64,699,0.436958760362973
+New Plymouth District,Maori,Female,Yes,65+,312,0.401907492090944
+New Plymouth District,Maori,Male,Yes,18-29,941,0.5673670300961858
+New Plymouth District,Maori,Male,Yes,30-39,642,0.4638166518566246
+New Plymouth District,Maori,Male,Yes,40-49,651,0.3877343214375475
+New Plymouth District,Maori,Male,Yes,50-64,672,0.3571775511365969
+New Plymouth District,Maori,Male,Yes,65+,258,0.3248338480949874
+New Plymouth District,Non-Maori,Female,No,18-29,3956,0.274300023535415
+New Plymouth District,Non-Maori,Female,No,30-39,3855,0.19956461814938442
+New Plymouth District,Non-Maori,Female,No,40-49,4722,0.15435078244785153
+New Plymouth District,Non-Maori,Female,No,50-64,7074,0.13803987283784375
+New Plymouth District,Non-Maori,Female,No,65+,6534,0.12178054727733979
+New Plymouth District,Non-Maori,Male,No,18-29,3975,0.21298330284505335
+New Plymouth District,Non-Maori,Male,No,30-39,3561,0.1514672534543753
+New Plymouth District,Non-Maori,Male,No,40-49,4278,0.11557701650886412
+New Plymouth District,Non-Maori,Male,No,50-64,6534,0.10286508905912187
+New Plymouth District,Non-Maori,Male,No,65+,5358,0.09031479030768563
+Opotiki District,Maori,Female,Yes,18-29,348,0.6603374862980019
+Opotiki District,Maori,Female,Yes,30-39,243,0.5618552691160961
+Opotiki District,Maori,Female,Yes,40-49,303,0.48421422365831424
+Opotiki District,Maori,Female,Yes,50-64,432,0.4516630044477943
+Opotiki District,Maori,Female,Yes,65+,240,0.416304335274561
+Opotiki District,Maori,Male,Yes,18-29,319,0.5819240988791133
+Opotiki District,Maori,Male,Yes,30-39,198,0.4786563520634276
+Opotiki District,Maori,Male,Yes,40-49,228,0.40196467811133946
+Opotiki District,Maori,Male,Yes,50-64,357,0.3709659244150938
+Opotiki District,Maori,Male,Yes,65+,228,0.33803020803797706
+Opotiki District,Non-Maori,Female,No,18-29,178,0.281623293510621
+Opotiki District,Non-Maori,Female,No,30-39,165,0.20545749868524998
+Opotiki District,Non-Maori,Female,No,40-49,261,0.1591740560384474
+Opotiki District,Non-Maori,Female,No,50-64,525,0.1424393024896296
+Opotiki District,Non-Maori,Female,No,65+,483,0.12573737182887645
+Opotiki District,Non-Maori,Male,No,18-29,218,0.2191639276996581
+Opotiki District,Non-Maori,Male,No,30-39,159,0.15621706573544228
+Opotiki District,Non-Maori,Male,No,40-49,243,0.11935967389035419
+Opotiki District,Non-Maori,Male,No,50-64,549,0.1062817006904424
+Opotiki District,Non-Maori,Male,No,65+,495,0.0933579287063994
+Otorohanga District,Maori,Female,Yes,18-29,195,0.6150434959135935
+Otorohanga District,Maori,Female,Yes,30-39,117,0.5131117698205241
+Otorohanga District,Maori,Female,Yes,40-49,123,0.43551121016657834
+Otorohanga District,Maori,Female,Yes,50-64,183,0.40367165741496863
+Otorohanga District,Maori,Female,Yes,65+,78,0.36953806051630533
+Otorohanga District,Maori,Male,Yes,18-29,224,0.5335597516705891
+Otorohanga District,Maori,Male,Yes,30-39,138,0.4300462648285103
+Otorohanga District,Maori,Male,Yes,40-49,132,0.35582726953064525
+Otorohanga District,Maori,Male,Yes,50-64,177,0.32644435460855203
+Otorohanga District,Maori,Male,Yes,65+,87,0.2956038808436197
+Otorohanga District,Non-Maori,Female,No,18-29,403,0.2686644510946094
+Otorohanga District,Non-Maori,Female,No,30-39,393,0.19505180884825446
+Otorohanga District,Non-Maori,Female,No,40-49,498,0.1506679508957868
+Otorohanga District,Non-Maori,Female,No,50-64,690,0.13468423816920327
+Otorohanga District,Non-Maori,Female,No,65+,501,0.118765703450271
+Otorohanga District,Non-Maori,Male,No,18-29,488,0.20824599800024168
+Otorohanga District,Non-Maori,Male,No,30-39,441,0.14784119505987253
+Otorohanga District,Non-Maori,Male,No,40-49,504,0.11269604206522024
+Otorohanga District,Non-Maori,Male,No,50-64,729,0.10026506061126111
+Otorohanga District,Non-Maori,Male,No,65+,531,0.08800086779959959
+Palmerston North City,Maori,Female,Yes,18-29,1429,0.6290316463933173
+Palmerston North City,Maori,Female,Yes,30-39,849,0.5279611167450201
+Palmerston North City,Maori,Female,Yes,40-49,693,0.4501912945899914
+Palmerston North City,Maori,Female,Yes,50-64,606,0.4180733684771581
+Palmerston North City,Maori,Female,Yes,65+,270,0.3835051599186571
+Palmerston North City,Maori,Male,Yes,18-29,1321,0.548334417360066
+Palmerston North City,Maori,Male,Yes,30-39,696,0.4446872541724301
+Palmerston North City,Maori,Male,Yes,40-49,660,0.3695799343590791
+Palmerston North City,Maori,Male,Yes,50-64,618,0.3396601788151396
+Palmerston North City,Maori,Male,Yes,65+,204,0.3081423490267566
+Palmerston North City,Non-Maori,Female,No,18-29,6891,0.26890465534226526
+Palmerston North City,Non-Maori,Female,No,30-39,4323,0.1952437688693975
+Palmerston North City,Non-Maori,Female,No,40-49,4569,0.1508244150438559
+Palmerston North City,Non-Maori,Female,No,50-64,6495,0.13482673864742134
+Palmerston North City,Non-Maori,Female,No,65+,5682,0.11889367570528155
+Palmerston North City,Non-Maori,Male,No,18-29,6544,0.20844758048940865
+Palmerston North City,Non-Maori,Male,No,30-39,3864,0.14799523521484212
+Palmerston North City,Non-Maori,Male,No,40-49,4158,0.11281831144013725
+Palmerston North City,Non-Maori,Male,No,50-64,5730,0.1003753687145852
+Palmerston North City,Non-Maori,Male,No,65+,4455,0.08809900442130565
+Porirua City,Maori,Female,Yes,18-29,995,0.6710056290667943
+Porirua City,Maori,Female,Yes,30-39,705,0.5736193063260661
+Porirua City,Maori,Female,Yes,40-49,681,0.4961936380854298
+Porirua City,Maori,Female,Yes,50-64,657,0.4635608783419696
+Porirua City,Maori,Female,Yes,65+,267,0.4279977953150132
+Porirua City,Maori,Male,Yes,18-29,816,0.5935391067814517
+Porirua City,Maori,Male,Yes,30-39,510,0.4906290600644009
+Porirua City,Maori,Male,Yes,40-49,567,0.41354072169444644
+Porirua City,Maori,Male,Yes,50-64,501,0.38221980747579726
+Porirua City,Maori,Male,Yes,65+,180,0.3488390278063152
+Porirua City,Non-Maori,Female,No,18-29,2975,0.31888924863867923
+Porirua City,Non-Maori,Female,No,30-39,2991,0.23595517717300465
+Porirua City,Non-Maori,Female,No,40-49,3402,0.1843959448765163
+Porirua City,Non-Maori,Female,No,50-64,4200,0.16553152432199303
+Porirua City,Non-Maori,Female,No,65+,2565,0.14658471630497577
+Porirua City,Non-Maori,Male,No,18-29,2812,0.2510532974306524
+Porirua City,Non-Maori,Male,No,30-39,2601,0.1810713071115048
+Porirua City,Non-Maori,Male,No,40-49,3138,0.1393180977916074
+Porirua City,Non-Maori,Male,No,50-64,3864,0.12436213981599432
+Porirua City,Non-Maori,Male,No,65+,2319,0.1095091956311482
+Queenstown-Lakes District,Maori,Female,Yes,18-29,104,0.5814438811832259
+Queenstown-Lakes District,Maori,Female,Yes,30-39,99,0.47816388625903045
+Queenstown-Lakes District,Maori,Female,Yes,40-49,123,0.4014903518509584
+Queenstown-Lakes District,Maori,Female,Yes,50-64,84,0.37050551513375485
+Queenstown-Lakes District,Maori,Female,Yes,65+,27,0.3375887378901304
+Queenstown-Lakes District,Maori,Male,Yes,18-29,146,0.49864549885664383
+Queenstown-Lakes District,Maori,Male,Yes,30-39,114,0.396152713906768
+Queenstown-Lakes District,Maori,Male,Yes,40-49,93,0.32445330707488196
+Queenstown-Lakes District,Maori,Male,Yes,50-64,72,0.29646879497679673
+Queenstown-Lakes District,Maori,Male,Yes,65+,21,0.26733623666331907
+Queenstown-Lakes District,Non-Maori,Female,No,18-29,2206,0.2902660140858203
+Queenstown-Lakes District,Non-Maori,Female,No,30-39,2580,0.2124540527504605
+Queenstown-Lakes District,Non-Maori,Female,No,40-49,2166,0.16492164637981535
+Queenstown-Lakes District,Non-Maori,Female,No,50-64,2322,0.14768875911382087
+Queenstown-Lakes District,Non-Maori,Female,No,65+,1467,0.13046493970746037
+Queenstown-Lakes District,Non-Maori,Male,No,18-29,2211,0.2264941805812088
+Queenstown-Lakes District,Non-Maori,Male,No,30-39,2469,0.16187843895577392
+Queenstown-Lakes District,Non-Maori,Male,No,40-49,2100,0.12388142660349748
+Queenstown-Lakes District,Non-Maori,Male,No,50-64,2382,0.11037010802924821
+Queenstown-Lakes District,Non-Maori,Male,No,65+,1518,0.0970031486739421
+Rangitikei District,Maori,Female,Yes,18-29,292,0.5940998749073944
+Rangitikei District,Maori,Female,Yes,30-39,180,0.49121010075226595
+Rangitikei District,Maori,Female,Yes,40-49,225,0.414104687926267
+Rangitikei District,Maori,Female,Yes,50-64,264,0.38276893822014146
+Rangitikei District,Maori,Female,Yes,65+,150,0.34936732187635866
+Rangitikei District,Maori,Male,Yes,18-29,255,0.5117025650882604
+Rangitikei District,Maori,Male,Yes,30-39,159,0.4087138693139049
+Rangitikei District,Maori,Male,Yes,40-49,189,0.33600606252715004
+Rangitikei District,Maori,Male,Yes,50-64,225,0.3074786454060852
+Rangitikei District,Maori,Male,Yes,65+,114,0.2776912336514055
+Rangitikei District,Non-Maori,Female,No,18-29,626,0.2458956899446301
+Rangitikei District,Non-Maori,Female,No,30-39,549,0.17701160391962525
+Rangitikei District,Non-Maori,Female,No,40-49,795,0.13603901333557586
+Rangitikei District,Non-Maori,Female,No,50-64,1179,0.12138542297159163
+Rangitikei District,Non-Maori,Female,No,65+,1116,0.10684461698180608
+Rangitikei District,Non-Maori,Male,No,18-29,653,0.18927241341900505
+Rangitikei District,Non-Maori,Male,No,30-39,540,0.13344359606986111
+Rangitikei District,Non-Maori,Male,No,40-49,702,0.10131415326089589
+Rangitikei District,Non-Maori,Male,No,50-64,1257,0.09001129477710987
+Rangitikei District,Non-Maori,Male,No,65+,1086,0.07889134577479323
+Rotorua District,Maori,Female,Yes,18-29,2089,0.7363823973311903
+Rotorua District,Maori,Female,Yes,30-39,1440,0.6482022749336254
+Rotorua District,Maori,Female,Yes,40-49,1515,0.5742682919732407
+Rotorua District,Maori,Female,Yes,50-64,1701,0.5420250477635153
+Rotorua District,Maori,Female,Yes,65+,747,0.5061217642666495
+Rotorua District,Maori,Male,Yes,18-29,1801,0.6666625076375887
+Rotorua District,Maori,Male,Yes,30-39,1113,0.5688166961095841
+Rotorua District,Maori,Male,Yes,40-49,1209,0.49129234003084316
+Rotorua District,Maori,Male,Yes,50-64,1392,0.4586884471175807
+Rotorua District,Maori,Male,Yes,65+,594,0.42320426790983273
+Rotorua District,Non-Maori,Female,No,18-29,2777,0.31307979074189796
+Rotorua District,Non-Maori,Female,No,30-39,2604,0.23114385946512425
+Rotorua District,Non-Maori,Female,No,40-49,3333,0.18038774614101807
+Rotorua District,Non-Maori,Female,No,50-64,4752,0.1618520069171667
+Rotorua District,Non-Maori,Female,No,65+,4095,0.14325405719675283
+Rotorua District,Non-Maori,Male,No,18-29,2825,0.2460332530127218
+Rotorua District,Non-Maori,Male,No,30-39,2319,0.17711968188416763
+Rotorua District,Non-Maori,Male,No,40-49,3030,0.13612621253839186
+Rotorua District,Non-Maori,Male,No,50-64,4494,0.12146454994808095
+Rotorua District,Non-Maori,Male,No,65+,3540,0.10691541873027162
+Ruapehu District,Maori,Female,Yes,18-29,422,0.6065203138212168
+Ruapehu District,Maori,Female,Yes,30-39,285,0.5041512160649806
+Ruapehu District,Maori,Female,Yes,40-49,285,0.4267181272532685
+Ruapehu District,Maori,Female,Yes,50-64,411,0.3950715095696276
+Ruapehu District,Maori,Female,Yes,65+,144,0.36122461668638106
+Ruapehu District,Maori,Male,Yes,18-29,376,0.5246268756378667
+Ruapehu District,Maori,Male,Yes,30-39,246,0.4212811742062156
+Ruapehu District,Maori,Male,Yes,40-49,258,0.3476521886489832
+Ruapehu District,Maori,Male,Yes,50-64,336,0.31861045049658804
+Ruapehu District,Maori,Male,Yes,65+,138,0.28819341080369354
+Ruapehu District,Non-Maori,Female,No,18-29,379,0.27547531734114583
+Ruapehu District,Non-Maori,Female,No,30-39,405,0.20050816831124096
+Ruapehu District,Non-Maori,Female,No,40-49,480,0.1551219881998175
+Ruapehu District,Non-Maori,Female,No,50-64,828,0.13874295285733607
+Ruapehu District,Non-Maori,Female,No,65+,642,0.12241257442103219
+Ruapehu District,Non-Maori,Male,No,18-29,516,0.21397333717134542
+Ruapehu District,Non-Maori,Male,No,30-39,372,0.15222664530144187
+Ruapehu District,Non-Maori,Male,No,40-49,498,0.11618110724728464
+Ruapehu District,Non-Maori,Male,No,50-64,930,0.10341050655965987
+Ruapehu District,Non-Maori,Male,No,65+,645,0.09080039797128854
+Selwyn District,Maori,Female,Yes,18-29,232,0.4729615610525311
+Selwyn District,Maori,Female,Yes,30-39,174,0.3718326093119051
+Selwyn District,Maori,Female,Yes,40-49,195,0.3023310720604607
+Selwyn District,Maori,Female,Yes,50-64,126,0.2754765517916243
+Selwyn District,Maori,Female,Yes,65+,36,0.24768058183216168
+Selwyn District,Maori,Male,Yes,18-29,373,0.3911738024767494
+Selwyn District,Maori,Male,Yes,30-39,162,0.2976560950248257
+Selwyn District,Maori,Male,Yes,40-49,228,0.23679290154862556
+Selwyn District,Maori,Male,Yes,50-64,177,0.21397437741457587
+Selwyn District,Maori,Male,Yes,65+,42,0.19075025750277397
+Selwyn District,Non-Maori,Female,No,18-29,2467,0.19895520859111962
+Selwyn District,Non-Maori,Female,No,30-39,2646,0.1407662028335549
+Selwyn District,Non-Maori,Female,No,40-49,3726,0.10709156961890631
+Selwyn District,Non-Maori,Female,No,50-64,4179,0.09521245516936495
+Selwyn District,Non-Maori,Female,No,65+,2304,0.08350892366034528
+Selwyn District,Non-Maori,Male,No,18-29,2857,0.15097701529464705
+Selwyn District,Non-Maori,Male,No,30-39,2313,0.10498131789122894
+Selwyn District,Non-Maori,Male,No,40-49,3579,0.07907940976482049
+Selwyn District,Non-Maori,Male,No,50-64,4344,0.07006372376045646
+Selwyn District,Non-Maori,Male,No,65+,2454,0.061242239169323795
+South Taranaki District,Maori,Female,Yes,18-29,546,0.6239886073666735
+South Taranaki District,Maori,Female,Yes,30-39,318,0.5225869009650884
+South Taranaki District,Maori,Female,Yes,40-49,387,0.4448626547546036
+South Taranaki District,Maori,Female,Yes,50-64,405,0.4128394348175203
+South Taranaki District,Maori,Female,Yes,65+,216,0.3784225675510001
+South Taranaki District,Maori,Male,Yes,18-29,517,0.542991373562592
+South Taranaki District,Maori,Male,Yes,30-39,333,0.4393717002460972
+South Taranaki District,Maori,Male,Yes,40-49,366,0.3645727561866769
+South Taranaki District,Maori,Male,Yes,50-64,369,0.33484305740361064
+South Taranaki District,Maori,Male,Yes,65+,186,0.30356673135823947
+South Taranaki District,Non-Maori,Female,No,18-29,1314,0.2868360962735402
+South Taranaki District,Non-Maori,Female,No,30-39,1287,0.20967196657786755
+South Taranaki District,Non-Maori,Female,No,40-49,1461,0.16263345979226274
+South Taranaki District,Non-Maori,Female,No,50-64,2073,0.14559798132332896
+South Taranaki District,Non-Maori,Female,No,65+,1872,0.12858120860042782
+South Taranaki District,Non-Maori,Male,No,18-29,1396,0.22358043458598165
+South Taranaki District,Non-Maori,Male,No,30-39,1134,0.15962440418782556
+South Taranaki District,Non-Maori,Male,No,40-49,1476,0.12207940661008586
+South Taranaki District,Non-Maori,Male,No,50-64,2196,0.10874023437440071
+South Taranaki District,Non-Maori,Male,No,65+,1638,0.09554946865681667
+South Waikato District,Maori,Female,Yes,18-29,596,0.6824133645310937
+South Waikato District,Maori,Female,Yes,30-39,402,0.5863220402890184
+South Waikato District,Maori,Female,Yes,40-49,456,0.5092295277685004
+South Waikato District,Maori,Female,Yes,50-64,510,0.47655038689094664
+South Waikato District,Maori,Female,Yes,65+,213,0.4408096573756922
+South Waikato District,Maori,Male,Yes,18-29,521,0.606055953676786
+South Waikato District,Maori,Male,Yes,30-39,315,0.5036649087014667
+South Waikato District,Maori,Male,Yes,40-49,372,0.42624230509708516
+South Waikato District,Maori,Male,Yes,50-64,399,0.3946066857474498
+South Waikato District,Maori,Male,Yes,65+,183,0.3607758655639343
+South Waikato District,Non-Maori,Female,No,18-29,933,0.30021425332498197
+South Waikato District,Non-Maori,Female,No,30-39,840,0.2205642289993051
+South Waikato District,Non-Maori,Female,No,40-49,1089,0.17161272327037239
+South Waikato District,Non-Maori,Female,No,50-64,1593,0.1538094514655169
+South Waikato District,Non-Maori,Female,No,65+,1551,0.13598571006181118
+South Waikato District,Non-Maori,Male,No,18-29,948,0.2349804056513399
+South Waikato District,Non-Maori,Male,No,30-39,768,0.16847095763453024
+South Waikato District,Non-Maori,Male,No,40-49,1059,0.12916499114674113
+South Waikato District,Non-Maori,Male,No,50-64,1641,0.11515315355014508
+South Waikato District,Non-Maori,Male,No,65+,1530,0.10127286111435906
+South Wairarapa District,Maori,Female,Yes,18-29,97,0.6117253278623394
+South Wairarapa District,Maori,Female,Yes,30-39,75,0.5096155222534994
+South Wairarapa District,Maori,Female,Yes,40-49,84,0.4320744897668499
+South Wairarapa District,Maori,Female,Yes,50-64,96,0.4003080136944623
+South Wairarapa District,Maori,Female,Yes,65+,39,0.3662841377642705
+South Wairarapa District,Maori,Male,Yes,18-29,95,0.530075862746165
+South Wairarapa District,Maori,Male,Yes,30-39,51,0.42662007716198624
+South Wairarapa District,Maori,Male,Yes,40-49,69,0.35262655016345085
+South Wairarapa District,Maori,Male,Yes,50-64,93,0.32337525826063257
+South Wairarapa District,Maori,Male,Yes,65+,33,0.29269873424662446
+South Wairarapa District,Non-Maori,Female,No,18-29,369,0.28463732402511766
+South Wairarapa District,Non-Maori,Female,No,30-39,459,0.20789227484120218
+South Wairarapa District,Non-Maori,Female,No,40-49,633,0.1611716085233844
+South Wairarapa District,Non-Maori,Female,No,50-64,1041,0.14426287487364942
+South Wairarapa District,Non-Maori,Female,No,65+,900,0.12737887941203013
+South Wairarapa District,Non-Maori,Male,No,18-29,368,0.22171580670968158
+South Wairarapa District,Non-Maori,Male,No,30-39,399,0.1581844907706829
+South Wairarapa District,Non-Maori,Male,No,40-49,600,0.12092943713273155
+South Wairarapa District,Non-Maori,Male,No,50-64,984,0.10770050316727996
+South Wairarapa District,Non-Maori,Male,No,65+,888,0.09462247203029685
+Southland District,Maori,Female,Yes,18-29,230,0.5428938659050284
+Southland District,Maori,Female,Yes,30-39,165,0.439274914631864
+Southland District,Maori,Female,Yes,40-49,192,0.36448173531458516
+Southland District,Maori,Female,Yes,50-64,177,0.33475554868919155
+Southland District,Maori,Female,Yes,65+,72,0.3034836670938514
+Southland District,Maori,Male,Yes,18-29,224,0.45955772691954805
+Southland District,Maori,Male,Yes,30-39,138,0.3593407095734725
+Southland District,Maori,Male,Yes,40-49,144,0.29109210273932284
+Southland District,Maori,Male,Yes,50-64,165,0.26485689667872836
+Southland District,Maori,Male,Yes,65+,99,0.23778079753237713
+Southland District,Non-Maori,Female,No,18-29,1621,0.22592429002171627
+Southland District,Non-Maori,Female,No,30-39,1662,0.16143719824439107
+Southland District,Non-Maori,Female,No,40-49,1980,0.12352849140253712
+Southland District,Non-Maori,Female,No,50-64,2709,0.1100508310215848
+Southland District,Non-Maori,Female,No,65+,1854,0.09671833554751089
+Southland District,Non-Maori,Male,No,18-29,1828,0.17284580329442867
+Southland District,Non-Maori,Male,No,30-39,1719,0.12113828964529753
+Southland District,Non-Maori,Male,No,40-49,2031,0.09165823558891904
+Southland District,Non-Maori,Male,No,50-64,2997,0.08133512034598987
+Southland District,Non-Maori,Male,No,65+,2001,0.07120315327168482
+Stratford District,Maori,Female,Yes,18-29,97,0.5753982800133198
+Stratford District,Maori,Female,Yes,30-39,66,0.47198121600142234
+Stratford District,Maori,Female,Yes,40-49,60,0.3955476060366161
+Stratford District,Maori,Female,Yes,50-64,48,0.3647419019433134
+Stratford District,Maori,Female,Yes,65+,24,0.3320670640631105
+Stratford District,Maori,Male,Yes,18-29,85,0.49244791431854473
+Stratford District,Maori,Male,Yes,30-39,54,0.39023746103819484
+Stratford District,Maori,Male,Yes,40-49,57,0.31904300102761324
+Stratford District,Maori,Male,Yes,50-64,57,0.2913238976095414
+Stratford District,Maori,Male,Yes,65+,15,0.2625082625958805
+Stratford District,Non-Maori,Female,No,18-29,533,0.2439284417730176
+Stratford District,Non-Maori,Female,No,30-39,468,0.175467220979712
+Stratford District,Non-Maori,Female,No,40-49,579,0.13479355687144176
+Stratford District,Non-Maori,Female,No,50-64,768,0.12025544896250236
+Stratford District,Non-Maori,Female,No,65+,759,0.10583369817068651
+Stratford District,Non-Maori,Male,No,18-29,530,0.18764544819228368
+Stratford District,Non-Maori,Male,No,30-39,444,0.13221826463621048
+Stratford District,Non-Maori,Male,No,40-49,546,0.1003496822257135
+Stratford District,Non-Maori,Male,No,50-64,813,0.08914374943072079
+Stratford District,Non-Maori,Male,No,65+,654,0.07812177555397978
+Tararua District,Maori,Female,Yes,18-29,302,0.6357268156536985
+Tararua District,Maori,Female,Yes,30-39,204,0.5351323382635398
+Tararua District,Maori,Female,Yes,40-49,243,0.4573295994259763
+Tararua District,Maori,Female,Yes,50-64,252,0.4250961568097361
+Tararua District,Maori,Female,Yes,65+,99,0.39033677010803336
+Tararua District,Maori,Male,Yes,18-29,247,0.5554567360674112
+Tararua District,Maori,Male,Yes,30-39,159,0.45181000335266236
+Tararua District,Maori,Male,Yes,40-49,171,0.3763149035553312
+Tararua District,Maori,Male,Yes,50-64,225,0.34614928824768226
+Tararua District,Maori,Male,Yes,65+,75,0.3143159323044027
+Tararua District,Non-Maori,Female,No,18-29,709,0.29175838273928767
+Tararua District,Non-Maori,Female,No,30-39,675,0.2136667994991649
+Tararua District,Non-Maori,Female,No,40-49,993,0.16592022838677253
+Tararua District,Non-Maori,Female,No,50-64,1512,0.14860156572072167
+Tararua District,Non-Maori,Female,No,65+,1428,0.1312876904434919
+Tararua District,Non-Maori,Male,No,18-29,743,0.22776389378970177
+Tararua District,Non-Maori,Male,No,30-39,693,0.16286218829202306
+Tararua District,Non-Maori,Male,No,40-49,927,0.12466861228487973
+Tararua District,Non-Maori,Male,No,50-64,1578,0.1110823236523606
+Tararua District,Non-Maori,Male,No,65+,1269,0.09763857446646099
+Tasman District,Maori,Female,Yes,18-29,236,0.6159698819683886
+Tasman District,Maori,Female,Yes,30-39,195,0.5140896575857073
+Tasman District,Maori,Female,Yes,40-49,273,0.4364737846734716
+Tasman District,Maori,Female,Yes,50-64,240,0.40461430107176355
+Tasman District,Maori,Female,Yes,65+,120,0.37045051233853626
+Tasman District,Maori,Male,Yes,18-29,241,0.5345338259601673
+Tasman District,Maori,Male,Yes,30-39,168,0.4310059831207184
+Tasman District,Maori,Male,Yes,40-49,216,0.35672502235334086
+Tasman District,Maori,Male,Yes,50-64,234,0.32730564150688085
+Tasman District,Maori,Male,Yes,65+,75,0.29641960768347564
+Tasman District,Non-Maori,Female,No,18-29,2068,0.31589292515577333
+Tasman District,Non-Maori,Female,No,30-39,2310,0.23347099843292252
+Tasman District,Non-Maori,Female,No,40-49,3618,0.182325056002275
+Tasman District,Non-Maori,Female,No,50-64,5271,0.16362999115690355
+Tasman District,Non-Maori,Female,No,65+,4221,0.14486304951407017
+Tasman District,Non-Maori,Male,No,18-29,2159,0.24846185420960176
+Tasman District,Non-Maori,Male,No,30-39,2046,0.1790295602551417
+Tasman District,Non-Maori,Male,No,40-49,3243,0.13766801106070678
+Tasman District,Non-Maori,Male,No,50-64,5055,0.1228639049205159
+Tasman District,Non-Maori,Male,No,65+,4047,0.10816779508446295
+Taupo District,Maori,Female,Yes,18-29,818,0.49410735635318764
+Taupo District,Maori,Female,Yes,30-39,585,0.391818365695457
+Taupo District,Maori,Female,Yes,40-49,603,0.3204870780637836
+Taupo District,Maori,Female,Yes,50-64,696,0.29269643876839274
+Taupo District,Maori,Female,Yes,65+,324,0.2637955775662883
+Taupo District,Maori,Male,Yes,18-29,736,0.4115180993955087
+Taupo District,Maori,Male,Yes,30-39,438,0.3156583765622493
+Taupo District,Maori,Male,Yes,40-49,540,0.25243720290681554
+Taupo District,Maori,Male,Yes,50-64,585,0.22856259650744903
+Taupo District,Maori,Male,Yes,65+,273,0.20416638648916155
+Taupo District,Non-Maori,Female,No,18-29,1313,0.20196787393314494
+Taupo District,Non-Maori,Female,No,30-39,1380,0.1430551011337909
+Taupo District,Non-Maori,Female,No,40-49,1770,0.10890230841066148
+Taupo District,Non-Maori,Female,No,50-64,2646,0.0968441227309112
+Taupo District,Non-Maori,Female,No,65+,2598,0.08495885924923863
+Taupo District,Non-Maori,Male,No,18-29,1319,0.15340230219836506
+Taupo District,Non-Maori,Male,No,30-39,1383,0.10676064204497025
+Taupo District,Non-Maori,Male,No,40-49,1731,0.08045918908325464
+Taupo District,Non-Maori,Male,No,50-64,2571,0.07129837592929199
+Taupo District,Non-Maori,Male,No,65+,2385,0.062331860067395835
+Tauranga City,Maori,Female,Yes,18-29,1692,0.5780125015228624
+Tauranga City,Maori,Female,Yes,30-39,1299,0.474650821031726
+Tauranga City,Maori,Female,Yes,40-49,1152,0.3981108474785132
+Tauranga City,Maori,Female,Yes,50-64,1239,0.367226796570909
+Tauranga City,Maori,Female,Yes,65+,549,0.3344465491172071
+Tauranga City,Maori,Male,Yes,18-29,1514,0.49512473105627863
+Tauranga City,Maori,Male,Yes,30-39,1068,0.39278865263393803
+Tauranga City,Maori,Male,Yes,40-49,1014,0.3213740635122148
+Tauranga City,Maori,Male,Yes,50-64,1026,0.2935397360397702
+Tauranga City,Maori,Male,Yes,65+,393,0.2645867560621283
+Tauranga City,Non-Maori,Female,No,18-29,5975,0.21706665356590976
+Tauranga City,Non-Maori,Female,No,30-39,5772,0.15460289091167814
+Tauranga City,Non-Maori,Female,No,40-49,7254,0.11807305011501752
+Tauranga City,Non-Maori,Female,No,50-64,10110,0.10511922197543606
+Tauranga City,Non-Maori,Female,No,65+,11802,0.09232220419562293
+Tauranga City,Non-Maori,Male,No,18-29,5655,0.1656239140760839
+Tauranga City,Non-Maori,Male,No,30-39,5073,0.115774464338639
+Tauranga City,Non-Maori,Male,No,40-49,6282,0.08746982874997963
+Tauranga City,Non-Maori,Male,No,50-64,8733,0.07757814945391105
+Tauranga City,Non-Maori,Male,No,65+,9369,0.06787960975189326
+Thames-Coromandel District,Maori,Female,Yes,18-29,286,0.6174587443778131
+Thames-Coromandel District,Maori,Female,Yes,30-39,228,0.5156629280411428
+Thames-Coromandel District,Maori,Female,Yes,40-49,285,0.43802364661760346
+Thames-Coromandel District,Maori,Female,Yes,50-64,357,0.4061325659567401
+Thames-Coromandel District,Maori,Female,Yes,65+,201,0.3719206618865725
+Thames-Coromandel District,Maori,Male,Yes,18-29,280,0.5361006339604125
+Thames-Coromandel District,Maori,Male,Yes,30-39,183,0.4325513325204468
+Thames-Coromandel District,Maori,Male,Yes,40-49,252,0.35817169160315837
+Thames-Coromandel District,Maori,Male,Yes,50-64,327,0.3286939655675931
+Thames-Coromandel District,Maori,Male,Yes,65+,165,0.2977349076764879
+Thames-Coromandel District,Non-Maori,Female,No,18-29,793,0.31115156657209037
+Thames-Coromandel District,Non-Maori,Female,No,30-39,930,0.22955163346418753
+Thames-Coromandel District,Non-Maori,Female,No,40-49,1440,0.17906372386579494
+Thames-Coromandel District,Non-Maori,Female,No,50-64,3039,0.1606373698481151
+Thames-Coromandel District,Non-Maori,Female,No,65+,3453,0.14215531853573296
+Thames-Coromandel District,Non-Maori,Male,No,18-29,878,0.24437106095294603
+Thames-Coromandel District,Non-Maori,Male,No,30-39,864,0.17581450129919526
+Thames-Coromandel District,Non-Maori,Male,No,40-49,1245,0.1350735243140291
+Thames-Coromandel District,Non-Maori,Male,No,50-64,2751,0.12050942641260422
+Thames-Coromandel District,Non-Maori,Male,No,65+,3237,0.10606088916702805
+Timaru District,Maori,Female,Yes,18-29,260,0.6538723418548466
+Timaru District,Maori,Female,Yes,30-39,210,0.55477946798393
+Timaru District,Maori,Female,Yes,40-49,225,0.47705159624826027
+Timaru District,Maori,Female,Yes,50-64,195,0.444566862709427
+Timaru District,Maori,Female,Yes,65+,81,0.4093490035061106
+Timaru District,Maori,Male,Yes,18-29,271,0.5749271993911249
+Timaru District,Maori,Male,Yes,30-39,159,0.47150078344796836
+Timaru District,Maori,Male,Yes,40-49,144,0.3950867606817434
+Timaru District,Maori,Male,Yes,50-64,174,0.3642953166329507
+Timaru District,Maori,Male,Yes,65+,87,0.3316395997365953
+Timaru District,Non-Maori,Female,No,18-29,2344,0.30851415603151494
+Timaru District,Non-Maori,Female,No,30-39,2109,0.22737758037249117
+Timaru District,Non-Maori,Female,No,40-49,3015,0.17725782333658924
+Timaru District,Non-Maori,Female,No,50-64,4677,0.15898131513399608
+Timaru District,Non-Maori,Female,No,65+,4884,0.14065787081770298
+Timaru District,Non-Maori,Male,No,18-29,2368,0.24210075860306418
+Timaru District,Non-Maori,Male,No,30-39,1920,0.17403442305214809
+Timaru District,Non-Maori,Male,No,40-49,2727,0.13363905404875695
+Timaru District,Non-Maori,Male,No,50-64,4554,0.11920830842588098
+Timaru District,Non-Maori,Male,No,65+,3951,0.10489716340378501
+Upper Hutt City,Maori,Female,Yes,18-29,482,0.6078315067467941
+Upper Hutt City,Maori,Female,Yes,30-39,336,0.5055254267788936
+Upper Hutt City,Maori,Female,Yes,40-49,351,0.428063484011246
+Upper Hutt City,Maori,Female,Yes,50-64,336,0.39638607893076366
+Upper Hutt City,Maori,Female,Yes,65+,105,0.36249405069103824
+Upper Hutt City,Maori,Male,Yes,18-29,487,0.5259976928134557
+Upper Hutt City,Maori,Male,Yes,30-39,381,0.42262202610452987
+Upper Hutt City,Maori,Male,Yes,40-49,339,0.34889997785578003
+Upper Hutt City,Maori,Male,Yes,50-64,324,0.31980510392083805
+Upper Hutt City,Maori,Male,Yes,65+,123,0.28932244006114094
+Upper Hutt City,Non-Maori,Female,No,18-29,2249,0.2586086721680537
+Upper Hutt City,Non-Maori,Female,No,30-39,2253,0.18704658181642583
+Upper Hutt City,Non-Maori,Female,No,40-49,2895,0.1441580789337831
+Upper Hutt City,Non-Maori,Female,No,50-64,3543,0.12876027358285855
+Upper Hutt City,Non-Maori,Female,No,65+,3138,0.11345010411864466
+Upper Hutt City,Non-Maori,Male,No,18-29,2266,0.19983369449311536
+Upper Hutt City,Non-Maori,Male,No,30-39,2025,0.1414331197758761
+Upper Hutt City,Non-Maori,Male,No,40-49,2805,0.10761892679242423
+Upper Hutt City,Non-Maori,Male,No,50-64,3462,0.09568758410618977
+Upper Hutt City,Non-Maori,Male,No,65+,2466,0.083931067313742
+Waikato District,Maori,Female,Yes,18-29,1189,0.5138361183703872
+Waikato District,Maori,Female,Yes,30-39,939,0.41077925239160273
+Waikato District,Maori,Female,Yes,40-49,975,0.3379140025780231
+Waikato District,Maori,Female,Yes,50-64,1041,0.30930005487037787
+Waikato District,Maori,Female,Yes,65+,408,0.27940738341970034
+Waikato District,Maori,Male,Yes,18-29,1161,0.43075709480449914
+Waikato District,Maori,Male,Yes,30-39,786,0.3329513879273818
+Waikato District,Maori,Male,Yes,40-49,828,0.26762116010535403
+Waikato District,Maori,Male,Yes,50-64,921,0.24277687605728765
+Waikato District,Maori,Male,Yes,65+,345,0.21729081780591447
+Waikato District,Non-Maori,Female,No,18-29,2754,0.229762230542845
+Waikato District,Non-Maori,Female,No,30-39,2910,0.16441232954922136
+Waikato District,Non-Maori,Female,No,40-49,4218,0.12590989958808246
+Waikato District,Non-Maori,Female,No,50-64,5172,0.11220567679811337
+Waikato District,Non-Maori,Female,No,65+,3390,0.09864106016751216
+Waikato District,Non-Maori,Male,No,18-29,3026,0.17598705960538655
+Waikato District,Non-Maori,Male,No,30-39,2703,0.12348011075003558
+Waikato District,Non-Maori,Male,No,40-49,4023,0.09349077879105046
+Waikato District,Non-Maori,Male,No,50-64,5466,0.08298012588439226
+Waikato District,Non-Maori,Male,No,65+,3363,0.07265944700933524
+Waimakariri District,Maori,Female,Yes,18-29,263,0.45551722586449284
+Waimakariri District,Maori,Female,Yes,30-39,222,0.35560156804811105
+Waimakariri District,Maori,Female,Yes,40-49,234,0.28774416443064577
+Waimakariri District,Maori,Female,Yes,50-64,222,0.2616993079071431
+Waimakariri District,Maori,Female,Yes,65+,87,0.23484288808356457
+Waimakariri District,Maori,Male,Yes,18-29,286,0.37460196338267154
+Waimakariri District,Maori,Male,Yes,30-39,177,0.28320318566430247
+Waimakariri District,Maori,Male,Yes,40-49,222,0.22435124491034897
+Waimakariri District,Maori,Male,Yes,50-64,246,0.20241368361306875
+Waimakariri District,Maori,Male,Yes,65+,90,0.1801567348670887
+Waimakariri District,Non-Maori,Female,No,18-29,2323,0.18205207582692132
+Waimakariri District,Non-Maori,Female,No,30-39,2493,0.12801671346330637
+Waimakariri District,Non-Maori,Female,No,40-49,4113,0.09704757696446747
+Waimakariri District,Non-Maori,Female,No,50-64,5169,0.08617506561703052
+Waimakariri District,Non-Maori,Female,No,65+,4302,0.07548972703632396
+Waimakariri District,Non-Maori,Male,No,18-29,2517,0.13745065283160712
+Waimakariri District,Non-Maori,Male,No,30-39,2145,0.09511416069665889
+Waimakariri District,Non-Maori,Male,No,40-49,3696,0.0714524084417476
+Waimakariri District,Non-Maori,Male,No,50-64,5067,0.0632465438680942
+Waimakariri District,Non-Maori,Male,No,65+,3897,0.05523240783929512
+Waimate District,Maori,Female,Yes,18-29,31,0.6158025447648982
+Waimate District,Maori,Female,Yes,30-39,18,0.5139129596587003
+Waimate District,Maori,Female,Yes,40-49,33,0.4362998104565234
+Waimate District,Maori,Female,Yes,50-64,33,0.4044439117231141
+Waimate District,Maori,Female,Yes,65+,21,0.37028556230978416
+Waimate District,Maori,Male,Yes,18-29,29,0.5343578286444669
+Waimate District,Maori,Male,Yes,30-39,24,0.4308325220907482
+Waimate District,Maori,Male,Yes,40-49,24,0.35656272242158976
+Waimate District,Maori,Male,Yes,50-64,30,0.3271499193734837
+Waimate District,Maori,Male,Yes,65+,12,0.29627210828893197
+Waimate District,Non-Maori,Female,No,18-29,341,0.2835501475217521
+Waimate District,Non-Maori,Female,No,30-39,354,0.20701340085117126
+Waimate District,Non-Maori,Female,No,40-49,492,0.16045023965723698
+Waimate District,Non-Maori,Female,No,50-64,807,0.14360422970808615
+Waimate District,Non-Maori,Female,No,65+,837,0.12678589868722548
+Waimate District,Non-Maori,Male,No,18-29,389,0.22079478276689354
+Waimate District,Non-Maori,Male,No,30-39,330,0.15747398168752247
+Waimate District,Non-Maori,Male,No,40-49,489,0.12036233894584446
+Waimate District,Non-Maori,Male,No,50-64,801,0.10718787764722965
+Waimate District,Non-Maori,Male,No,65+,807,0.09416552532809094
+Waipa District,Maori,Female,Yes,18-29,521,0.5678634019087963
+Waipa District,Maori,Female,Yes,30-39,384,0.46431965883768933
+Waipa District,Maori,Female,Yes,40-49,387,0.3882145581432397
+Waipa District,Maori,Female,Yes,50-64,480,0.35764204847226433
+Waipa District,Maori,Female,Yes,65+,192,0.32527756747119885
+Waipa District,Maori,Male,Yes,18-29,503,0.4847591380581774
+Waipa District,Maori,Male,Yes,30-39,303,0.3829404898701065
+Waipa District,Maori,Male,Yes,40-49,321,0.31239525051116795
+Waipa District,Maori,Male,Yes,50-64,411,0.2850119773859796
+Waipa District,Maori,Male,Yes,65+,153,0.2565946168873543
+Waipa District,Non-Maori,Female,No,18-29,2465,0.218868810029348
+Waipa District,Non-Maori,Female,No,30-39,2364,0.15598977677467038
+Waipa District,Non-Maori,Female,No,40-49,3312,0.11917843653286084
+Waipa District,Non-Maori,Female,No,50-64,4254,0.1061179282269244
+Waipa District,Non-Maori,Female,No,65+,3924,0.09321199381657891
+Waipa District,Non-Maori,Male,No,18-29,2434,0.16709012502593248
+Waipa District,Non-Maori,Male,No,30-39,2085,0.11686118308229354
+Waipa District,Non-Maori,Male,No,40-49,2886,0.08831740220164033
+Waipa District,Non-Maori,Male,No,50-64,4098,0.07833810196311032
+Waipa District,Non-Maori,Male,No,65+,3276,0.06855161634485986
+Wairoa District,Maori,Female,Yes,18-29,393,0.566541152754612
+Wairoa District,Maori,Female,Yes,30-39,282,0.4629802014084624
+Wairoa District,Maori,Female,Yes,40-49,297,0.38693606284909654
+Wairoa District,Maori,Female,Yes,50-64,441,0.3564055818739316
+Wairoa District,Maori,Female,Yes,65+,240,0.3240965391012886
+Wairoa District,Maori,Male,Yes,18-29,292,0.48341392757214735
+Wairoa District,Maori,Male,Yes,30-39,216,0.38166852772351767
+Wairoa District,Maori,Male,Yes,40-49,261,0.31123941974063685
+Wairoa District,Maori,Male,Yes,50-64,372,0.28391562831457834
+Wairoa District,Maori,Male,Yes,65+,213,0.2555685071121761
+Wairoa District,Non-Maori,Female,No,18-29,136,0.23771090943648945
+Wairoa District,Non-Maori,Female,No,30-39,147,0.1706009595909807
+Wairoa District,Non-Maori,Female,No,40-49,189,0.13087625848486606
+Wairoa District,Non-Maori,Female,No,50-64,414,0.1167036604238569
+Wairoa District,Non-Maori,Female,No,65+,357,0.1026581566302409
+Wairoa District,Non-Maori,Male,No,18-29,147,0.18251620734888963
+Wairoa District,Non-Maori,Male,No,30-39,159,0.12836470426146762
+Wairoa District,Non-Maori,Male,No,40-49,171,0.09732077930802703
+Wairoa District,Non-Maori,Male,No,50-64,468,0.08642058976037899
+Wairoa District,Non-Maori,Male,No,65+,420,0.07570732941715444
+Waitaki District,Maori,Female,Yes,18-29,106,0.4984013081337157
+Waitaki District,Maori,Female,Yes,30-39,66,0.3959190785226068
+Waitaki District,Maori,Female,Yes,40-49,93,0.32423925175316026
+Waitaki District,Maori,Female,Yes,50-64,87,0.2962651053387544
+Waitaki District,Maori,Female,Yes,65+,42,0.26714496229783485
+Waitaki District,Maori,Male,Yes,18-29,92,0.41568406918630657
+Waitaki District,Maori,Male,Yes,30-39,57,0.3193805885024147
+Waitaki District,Maori,Male,Yes,40-49,81,0.2556924594937784
+Waitaki District,Maori,Male,Yes,50-64,87,0.23160536515764113
+Waitaki District,Maori,Male,Yes,65+,36,0.20697151316779241
+Waitaki District,Non-Maori,Female,No,18-29,989,0.20753013784231406
+Waitaki District,Non-Maori,Female,No,30-39,1008,0.1472943511529074
+Waitaki District,Non-Maori,Female,No,40-49,1359,0.11226206956210273
+Waitaki District,Non-Maori,Female,No,50-64,2286,0.09987356949830874
+Waitaki District,Non-Maori,Female,No,65+,2424,0.08765259787843487
+Waitaki District,Non-Maori,Male,No,18-29,1043,0.1578916822910556
+Waitaki District,Non-Maori,Male,No,30-39,939,0.11006249121508659
+Waitaki District,Non-Maori,Male,No,40-49,1200,0.08302320395171164
+Waitaki District,Non-Maori,Male,No,50-64,2226,0.07359382478463536
+Waitaki District,Non-Maori,Male,No,65+,2106,0.06435863741539626
+Waitomo District,Maori,Female,Yes,18-29,299,0.6648143718547422
+Waitomo District,Maori,Female,Yes,30-39,216,0.5667785998483014
+Waitomo District,Maori,Female,Yes,40-49,246,0.4892168578767713
+Waitomo District,Maori,Female,Yes,50-64,297,0.4566270661650152
+Waitomo District,Maori,Female,Yes,65+,141,0.42117827782750267
+Waitomo District,Maori,Male,Yes,18-29,271,0.5867877695653329
+Waitomo District,Maori,Male,Yes,30-39,171,0.4836554093057642
+Waitomo District,Maori,Male,Yes,40-49,189,0.40678773809113233
+Waitomo District,Maori,Male,Yes,50-64,228,0.37565067331476304
+Waitomo District,Maori,Male,Yes,65+,108,0.34252551206823784
+Waitomo District,Non-Maori,Female,No,18-29,330,0.2868388097932588
+Waitomo District,Non-Maori,Female,No,30-39,270,0.20967416473141073
+Waitomo District,Non-Maori,Female,No,40-49,366,0.16263526628427183
+Waitomo District,Non-Maori,Female,No,50-64,630,0.14559963149169777
+Waitomo District,Non-Maori,Female,No,65+,483,0.12858269493014565
+Waitomo District,Non-Maori,Male,No,18-29,317,0.22358273730239359
+Waitomo District,Non-Maori,Male,No,30-39,315,0.15962618362754052
+Waitomo District,Non-Maori,Male,No,40-49,372,0.12208082831158121
+Waitomo District,Non-Maori,Male,No,50-64,666,0.10874151997307896
+Waitomo District,Non-Maori,Male,No,65+,489,0.09555061502472957
+Wellington City,Maori,Female,Yes,18-29,1892,0.7087775449211747
+Wellington City,Maori,Female,Yes,30-39,1068,0.6161765291820395
+Wellington City,Maori,Female,Yes,40-49,981,0.5402854024061994
+Wellington City,Maori,Female,Yes,50-64,888,0.5076749087703277
+Wellington City,Maori,Female,Yes,65+,285,0.4717034191094963
+Wellington City,Maori,Male,Yes,18-29,1651,0.635371951904078
+Wellington City,Maori,Male,Yes,30-39,1020,0.5347511956604455
+Wellington City,Maori,Male,Yes,40-49,918,0.45694940071348633
+Wellington City,Maori,Male,Yes,50-64,759,0.42472178241078173
+Wellington City,Maori,Male,Yes,65+,225,0.38997224277817133
+Wellington City,Non-Maori,Female,No,18-29,19775,0.4641163051885862
+Wellington City,Non-Maori,Female,No,30-39,14196,0.36357395226624223
+Wellington City,Non-Maori,Female,No,40-49,14016,0.29489141705980026
+Wellington City,Non-Maori,Female,No,50-64,15060,0.26844345573222717
+Wellington City,Non-Maori,Female,No,65+,9600,0.24112096417889625
+Wellington City,Non-Maori,Male,No,18-29,18386,0.38274731143924157
+Wellington City,Non-Maori,Male,No,30-39,13572,0.29028361468480857
+Wellington City,Non-Maori,Male,No,40-49,12759,0.23043331401187583
+Wellington City,Non-Maori,Male,No,50-64,14223,0.20806056215436405
+Wellington City,Non-Maori,Male,No,65+,8109,0.18532697182167712
+Western Bay of Plenty District,Maori,Female,Yes,18-29,595,0.5858789559247701
+Western Bay of Plenty District,Maori,Female,Yes,30-39,465,0.48271972693022763
+Western Bay of Plenty District,Maori,Female,Yes,40-49,525,0.4058838686968524
+Western Bay of Plenty District,Maori,Female,Yes,50-64,573,0.3747722802882586
+Western Bay of Plenty District,Maori,Female,Yes,65+,297,0.3416821869922688
+Western Bay of Plenty District,Maori,Male,Yes,18-29,543,0.5032083055287824
+Western Bay of Plenty District,Maori,Male,Yes,30-39,348,0.40052690918024564
+Western Bay of Plenty District,Maori,Male,Yes,40-49,438,0.32846646039243077
+Western Bay of Plenty District,Maori,Male,Yes,50-64,540,0.30028967244442034
+Western Bay of Plenty District,Maori,Male,Yes,65+,267,0.27092624233640616
+Western Bay of Plenty District,Non-Maori,Female,No,18-29,1595,0.25671264945158945
+Western Bay of Plenty District,Non-Maori,Female,No,30-39,1677,0.18554392032939343
+Western Bay of Plenty District,Non-Maori,Female,No,40-49,2826,0.14293938616605092
+Western Bay of Plenty District,Non-Maori,Female,No,50-64,4497,0.12765233623312702
+Western Bay of Plenty District,Non-Maori,Female,No,65+,3966,0.11245690103250587
+Western Bay of Plenty District,Non-Maori,Male,No,18-29,1910,0.19825335796960947
+Western Bay of Plenty District,Non-Maori,Male,No,30-39,1470,0.14023368881472778
+Western Bay of Plenty District,Non-Maori,Male,No,40-49,2511,0.10667063066054808
+Western Bay of Plenty District,Non-Maori,Male,No,50-64,4335,0.09483324970885466
+Western Bay of Plenty District,Non-Maori,Male,No,65+,3915,0.08317204542095794
+Westland District,Maori,Female,Yes,18-29,83,0.5722988285622739
+Westland District,Maori,Female,Yes,30-39,69,0.468823746200673
+Westland District,Maori,Female,Yes,40-49,87,0.3925213503520491
+Westland District,Maori,Female,Yes,50-64,90,0.36181025736419337
+Westland District,Maori,Female,Yes,65+,51,0.3292619236672293
+Westland District,Maori,Male,Yes,18-29,74,0.48928039941437423
+Westland District,Maori,Male,Yes,30-39,54,0.38722580573221443
+Westland District,Maori,Male,Yes,40-49,66,0.3162957817831823
+Westland District,Maori,Male,Yes,50-64,60,0.2887141644065786
+Westland District,Maori,Male,Yes,65+,42,0.2600619374206415
+Westland District,Non-Maori,Female,No,18-29,437,0.25636717303993367
+Westland District,Non-Maori,Female,No,30-39,465,0.18527034758351021
+Westland District,Non-Maori,Female,No,40-49,585,0.14271762352420767
+Westland District,Non-Maori,Female,No,50-64,813,0.12745076373029152
+Westland District,Non-Maori,Female,No,65+,603,0.11227623498808965
+Westland District,Non-Maori,Male,No,18-29,454,0.1979656008181778
+Westland District,Non-Maori,Male,No,30-39,432,0.14001543814186268
+Westland District,Non-Maori,Male,No,40-49,540,0.1064981450384844
+Westland District,Non-Maori,Male,No,50-64,918,0.09467787642505712
+Westland District,Non-Maori,Male,No,65+,594,0.083034025052918
+Whakatane District,Maori,Female,Yes,18-29,1034,0.6741593596683987
+Whakatane District,Maori,Female,Yes,30-39,846,0.577118241449601
+Whakatane District,Maori,Female,Yes,40-49,897,0.4997738665970216
+Whakatane District,Maori,Female,Yes,50-64,1080,0.46712396303979786
+Whakatane District,Maori,Female,Yes,65+,498,0.43150741064070275
+Whakatane District,Maori,Male,Yes,18-29,942,0.5969894234860615
+Whakatane District,Maori,Male,Yes,30-39,684,0.4942085236814371
+Whakatane District,Maori,Male,Yes,40-49,693,0.4170182161346394
+Whakatane District,Maori,Male,Yes,50-64,963,0.38560709885400757
+Whakatane District,Maori,Male,Yes,65+,402,0.35209909709711296
+Whakatane District,Non-Maori,Female,No,18-29,1035,0.28878968773856356
+Whakatane District,Non-Maori,Female,No,30-39,1068,0.2112556869757855
+Whakatane District,Non-Maori,Female,No,40-49,1524,0.16393558139162268
+Whakatane District,Non-Maori,Female,No,50-64,2373,0.1467876181608287
+Whakatane District,Non-Maori,Female,No,65+,2151,0.12965290528799606
+Whakatane District,Non-Maori,Male,No,18-29,1035,0.2252392699926829
+Whakatane District,Non-Maori,Male,No,30-39,930,0.16090706331355062
+Whakatane District,Non-Maori,Male,No,40-49,1308,0.12310456770993176
+Whakatane District,Non-Maori,Male,No,50-64,2322,0.10966737253017401
+Whakatane District,Non-Maori,Male,No,65+,1962,0.09637630163351166
+Whanganui District,Maori,Female,Yes,18-29,830,0.621072581050408
+Whanganui District,Maori,Female,Yes,30-39,561,0.5194900546939497
+Whanganui District,Maori,Female,Yes,40-49,576,0.44180016673460865
+Whanganui District,Maori,Female,Yes,50-64,684,0.4098346482411195
+Whanganui District,Maori,Female,Yes,65+,309,0.37550807734433816
+Whanganui District,Maori,Male,Yes,18-29,764,0.5399103562786962
+Whanganui District,Maori,Male,Yes,30-39,444,0.43631730291595827
+Whanganui District,Maori,Male,Yes,40-49,552,0.36170286219255576
+Whanganui District,Maori,Male,Yes,50-64,576,0.3320848855840992
+Whanganui District,Maori,Male,Yes,65+,255,0.3009496248687108
+Whanganui District,Non-Maori,Female,No,18-29,1889,0.2579638356667997
+Whanganui District,Non-Maori,Female,No,30-39,1641,0.1865352886945615
+Whanganui District,Non-Maori,Female,No,40-49,2361,0.1437432926091404
+Whanganui District,Non-Maori,Female,No,50-64,3810,0.12838314541856966
+Whanganui District,Non-Maori,Female,No,65+,4293,0.11311199636058025
+Whanganui District,Non-Maori,Male,No,18-29,1879,0.19929601662135732
+Whanganui District,Non-Maori,Male,No,30-39,1560,0.14102488202586555
+Whanganui District,Non-Maori,Male,No,40-49,2073,0.10729609407000543
+Whanganui District,Non-Maori,Male,No,50-64,3621,0.09539671660081069
+Whanganui District,Non-Maori,Male,No,65+,3252,0.08367263021241973
+Whangarei District,Maori,Female,Yes,18-29,1706,0.6850757153019759
+Whangarei District,Maori,Female,Yes,30-39,1152,0.5893051353390688
+Whangarei District,Maori,Female,Yes,40-49,1215,0.5123061379093473
+Whangarei District,Maori,Female,Yes,50-64,1380,0.4796225121965065
+Whangarei District,Maori,Female,Yes,65+,663,0.4438467440324672
+Whangarei District,Maori,Male,Yes,18-29,1472,0.6089916447932918
+Whangarei District,Maori,Male,Yes,30-39,885,0.506742612997775
+Whangarei District,Maori,Male,Yes,40-49,1044,0.42925607056095816
+Whangarei District,Maori,Male,Yes,50-64,1128,0.39755175682342164
+Whangarei District,Maori,Male,Yes,65+,480,0.36362010091372216
+Whangarei District,Non-Maori,Female,No,18-29,3144,0.3005585314787701
+Whangarei District,Non-Maori,Female,No,30-39,3066,0.2208459927822234
+Whangarei District,Non-Maori,Female,No,40-49,4497,0.17184574021523533
+Whangarei District,Non-Maori,Female,No,50-64,6819,0.15402278958758725
+Whangarei District,Non-Maori,Female,No,65+,6843,0.13617830468630757
+Whangarei District,Non-Maori,Male,No,18-29,3161,0.23527502665381309
+Whangarei District,Non-Maori,Male,No,30-39,2619,0.16870057741851666
+Whangarei District,Non-Maori,Male,No,40-49,3882,0.1293493718711298
+Whangarei District,Non-Maori,Male,No,50-64,6390,0.1153201813409143
+Whangarei District,Non-Maori,Male,No,65+,5937,0.10142206344637501
