@@ -5,10 +5,12 @@ library(lme4)
 # Replication code at http://www.princeton.edu/~jkastell/mrp_primer.html
 
 nz_2017 <- read_csv("nz_2017.csv")
+nz_2017 <- read_csv("https://raw.githubusercontent.com/voxpoplabs/methods_seminar_mcmaster/master/nz_2017.csv")
 
 model <- glmer(target_binary ~ Maori + Sex + Age + (1 + Maori | Area), data = nz_2017, family = binomial)
 
 census <- read_csv("census.csv")
+census <- read_csv("https://raw.githubusercontent.com/voxpoplabs/methods_seminar_mcmaster/master/census.csv")
 
 census$pred_cells <- predict(model,census,type = "response")
 
@@ -39,6 +41,9 @@ to_merge <- census %>%
   dplyr::summarise(value = weighted.mean(pred_cells,count))
 
 nz_sf <- read_rds("map.rds")
+download.file("https://raw.githubusercontent.com/voxpoplabs/methods_seminar_mcmaster/master/map.rds","temp.rds", method="curl")
+nz_sf <- readRDS("temp.rds")
+
 
 nz_sf <- left_join(nz_sf,to_merge %>% rename(value_for_color = value),c("TA2017_NAM"="Area"))
 

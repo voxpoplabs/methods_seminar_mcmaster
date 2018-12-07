@@ -5,6 +5,7 @@ library(lme4)
 # Replication code at http://www.princeton.edu/~jkastell/mrp_primer.html
 
 nz_2017 <- read_csv("nz_2017.csv")
+nz_2017 <- read_csv("https://raw.githubusercontent.com/voxpoplabs/methods_seminar_mcmaster/master/nz_2017.csv")
 
 model <- glmer(target_binary ~ Maori + Sex + Age + (1 + Maori | Area), data = nz_2017, family = binomial)
 

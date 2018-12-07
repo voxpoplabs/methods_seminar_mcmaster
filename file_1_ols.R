@@ -8,6 +8,7 @@ library(lme4)
 # https://cran.r-project.org/web/packages/tibble/vignettes/tibble.html
 
 nz_2017 <- read_csv("nz_2017.csv")
+nz_2017 <- read_csv("https://raw.githubusercontent.com/voxpoplabs/methods_seminar_mcmaster/master/nz_2017.csv")
 
 # OLS regression. 
 # target is How much should the government do to make amends for past 
