@@ -31,7 +31,7 @@ summary(model_lm)
 # probabilities <- predict(multi_logit,to_predict,type = "prob")
 # bind_cols(to_predict,as_data_frame(probabilities))
 
-multi_logit <- multinom(as.factor(target) ~ Maori * Sex + Maori * Age, data = nz_2017)
+# multi_logit <- multinom(as.factor(target) ~ Maori * Sex + Maori * Age, data = nz_2017)
 
 # Output predicted probabilities for each different unique possibility
 
