@@ -9,6 +9,7 @@ nz_2017 <- read_csv("https://raw.githubusercontent.com/voxpoplabs/methods_semina
 
 model <- glmer(target_binary ~ Maori + Sex + Age + (1 + Maori | Area), data = nz_2017, family = binomial)
 
+census <- read_csv("https://raw.githubusercontent.com/voxpoplabs/methods_seminar_mcmaster/master/census.csv")
 census <- read_csv("census.csv")
 
 census$pred_cells <- predict(model,census,type = "response")
