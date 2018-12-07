@@ -1,17 +1,17 @@
-# methods_seminar_mcmaster
+# Vote Compass datasets and the study of minority populations 
 
-# Simple ols, multinomial regression
+### Simple ols, multinomial regression
 `file_1_ols.R`
-# MRP
+### MRP
 `file_2_mrp.R`
-# MRP + map
+### MRP + map
 `file_3_map.R`
 
 above files are self contained
 
-## Data from Vox Pop Labs' Vote Compass NZ 2017
+### Data from Vox Pop Labs' Vote Compass NZ 2017
 nz_2017.csv
-## Census from NZ
+### Census from NZ
 census.csv
-## Some rds cleaned shape file from NZ
+### Some rds cleaned shape file from NZ
 map.rds
